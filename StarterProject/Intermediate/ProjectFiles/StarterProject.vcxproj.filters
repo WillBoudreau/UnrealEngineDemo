@@ -11,6 +11,7 @@
     <None Include="..\..\Source\StarterProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -29,6 +30,18 @@
     <Filter Include="Source\StarterProject">
       <UniqueIdentifier>{6DEEF818-B039-34D1-AFD1-4795FD11583A}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\StarterProject\ActorCubeRotation.cpp">
+      <Filter>Source\StarterProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\StarterProject\ActorCubeRotation.h">
+      <Filter>Source\StarterProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\StarterProject\CubeRotation.cpp">
+      <Filter>Source\StarterProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\StarterProject\CubeRotation.h">
+      <Filter>Source\StarterProject</Filter>
+    </ClCompile>
     <None Include="..\..\Source\StarterProject\StarterProject.Build.cs">
       <Filter>Source\StarterProject</Filter>
     </None>

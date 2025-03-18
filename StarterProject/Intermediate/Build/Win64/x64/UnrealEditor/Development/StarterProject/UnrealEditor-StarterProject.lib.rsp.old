@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-StarterProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\StarterProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarterProject\CubeRotation.gen.cpp.obj"
+"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarterProject\StarterProject.init.gen.cpp.obj"
+"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarterProject\CubeRotation.cpp.obj"
+"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarterProject\StarterProject.cpp.obj"
+"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarterProject\PerModuleInline.gen.cpp.obj"
+"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarterProject\Default.rc2.res"
+/OUT:"C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\StarterProject\UnrealEditor-StarterProject.lib"

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\willi\\onedrive\\documents\\github\\unrealenginedemo\\firstproject\\starterproject\\source\\starterproject\\starterproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\willi\\onedrive\\documents\\github\\unrealenginedemo\\firstproject\\starterproject\\intermediate\\build\\win64\\x64\\starterprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\willi\\onedrive\\documents\\github\\unrealenginedemo\\firstproject\\starterproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\starterproject\\definitions.starterproject.h",
+            "c:\\users\\willi\\onedrive\\documents\\github\\unrealenginedemo\\firstproject\\starterproject\\source\\starterproject\\starterproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

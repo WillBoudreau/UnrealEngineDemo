@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\willi\\onedrive\\documents\\github\\unrealenginedemo\\firstproject\\starterproject\\intermediate\\build\\win64\\unrealeditor\\inc\\starterproject\\uht\\starterproject.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\willi\\onedrive\\documents\\github\\unrealenginedemo\\firstproject\\starterproject\\intermediate\\build\\win64\\x64\\starterprojecteditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\willi\\onedrive\\documents\\github\\unrealenginedemo\\firstproject\\starterproject\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\starterproject\\definitions.starterproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
