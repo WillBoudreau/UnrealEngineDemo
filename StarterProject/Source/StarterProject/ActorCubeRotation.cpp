@@ -31,6 +31,6 @@ void UActorCubeRotation::TickComponent(float DeltaTime, ELevelTick TickType, FAc
 
 	FQuat QuatRotation = FQuat(FRotator(PitchValue,YawValue,RollValue));
 
-	GetOwner()->AddActorLocalRotation(QuatRotation, false, 0, ETeleportType::None); // Fix identifier and typo
+	GetOwner()->AddActorLocalRotation(QuatRotation, false, 0, ETeleportType::None);
 	// ...
 }
