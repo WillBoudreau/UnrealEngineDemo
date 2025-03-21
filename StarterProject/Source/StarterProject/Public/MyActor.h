@@ -22,7 +22,7 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-	UPROPERTY(ViewAnyWhere,Category = "Please");
+	UPROPERTY(ViewAnyWhere,Category = "Please work");
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
 	float PitchValue = 0.0f;
 
