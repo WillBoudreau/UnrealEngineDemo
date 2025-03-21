@@ -54,12 +54,18 @@
     <Filter Include="Source\StarterProject\Private">
       <UniqueIdentifier>{D53BEC8A-6511-3696-A0A7-AA3C323778A2}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\StarterProject\Private\CharacterControllerClass.cpp">
+      <Filter>Source\StarterProject\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\StarterProject\Private\MyActor.cpp">
       <Filter>Source\StarterProject\Private</Filter>
     </ClCompile>
     <Filter Include="Source\StarterProject\Public">
       <UniqueIdentifier>{14543FE1-2273-3DFA-8FFD-6FC1CEECE3CB}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\StarterProject\Public\CharacterControllerClass.h">
+      <Filter>Source\StarterProject\Public</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\StarterProject\Public\MyActor.h">
       <Filter>Source\StarterProject\Public</Filter>
     </ClCompile>
