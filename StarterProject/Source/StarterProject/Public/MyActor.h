@@ -22,8 +22,8 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-	UPROPERTY(ViewAnyWhere,Category = "Please work");
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
+
+	UPROPERTY(VisibleAnywhere, Category = "Please work")
 	float PitchValue = 0.0f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
@@ -31,5 +31,4 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "Movement")
 	float RollValue = 0.0f;
-
 };
