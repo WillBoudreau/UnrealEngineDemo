@@ -4451,3 +4451,1047 @@ Sampler Limit: 32
 [2025.03.30-23.45.12:851][837]LogEditorActor: Deleted Actor: StaticMeshActor
 [2025.03.30-23.45.12:887][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
 [2025.03.30-23.45.12:894][837]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2025.03.30-23.48.15:095][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5163.502930
+[2025.03.30-23.48.16:096][653]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-23.48.16:096][653]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5164.169434, Update Interval: 349.125031
+[2025.03.30-23.54.36:146][793]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5544.555664
+[2025.03.30-23.54.37:146][796]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.30-23.54.37:146][797]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5545.221680, Update Interval: 325.014801
+[2025.03.30-23.57.49:026][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-23.57.49:144][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.30-23.57.49:170][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.30-23.57.49:191][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.30-23.57.49:194][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/K1/LG4A8JPHCLTTNLNH5G1TF8
+[2025.03.30-23.57.49:196][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/LG4A8JPHCLTTNLNH5G1TF89B4F035A42C89D9A73B6E78D88539532.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/K1/LG4A8JPHCLTTNLNH5G1TF8.uasset'
+[2025.03.30-23.57.49:199][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/11/08K5MNZDOR4B9P6GOS1E4X
+[2025.03.30-23.57.49:200][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/08K5MNZDOR4B9P6GOS1E4X806F7CE74D8E4AA813A19CB517BCAEC8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/11/08K5MNZDOR4B9P6GOS1E4X.uasset'
+[2025.03.30-23.57.49:204][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/IT/1UZBT1RRCBD726DPP37C9H
+[2025.03.30-23.57.49:205][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/1UZBT1RRCBD726DPP37C9H1040431B4B0C2DA1BE349C875045E062.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/IT/1UZBT1RRCBD726DPP37C9H.uasset'
+[2025.03.30-23.57.49:209][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/1I/UAR42CU5GMKGC8QU9AZZPK
+[2025.03.30-23.57.49:210][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/UAR42CU5GMKGC8QU9AZZPKC3F29BFC43343B99E87AB4B18393F0E8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/1I/UAR42CU5GMKGC8QU9AZZPK.uasset'
+[2025.03.30-23.57.49:214][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/MG/NZ69G3CW3DT080M75DU4Q4
+[2025.03.30-23.57.49:215][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/NZ69G3CW3DT080M75DU4Q44C46812E4CD57E86B1F298B2C07357C0.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/MG/NZ69G3CW3DT080M75DU4Q4.uasset'
+[2025.03.30-23.57.49:219][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/8B/HAZXN4KYE166794CA2HBLY
+[2025.03.30-23.57.49:220][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/HAZXN4KYE166794CA2HBLY841D61E843BEB41FD211599AEB0FBBDB.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/8B/HAZXN4KYE166794CA2HBLY.uasset'
+[2025.03.30-23.57.49:224][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/SG/0PCX4S1RZ6ZAZU4LM0UKGF
+[2025.03.30-23.57.49:225][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/0PCX4S1RZ6ZAZU4LM0UKGF6E6DF3294E13D4DC2E63C69C638F28DF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/SG/0PCX4S1RZ6ZAZU4LM0UKGF.uasset'
+[2025.03.30-23.57.49:229][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/JT/QZIMHBPPH5S32HJDB6N38N
+[2025.03.30-23.57.49:230][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/QZIMHBPPH5S32HJDB6N38N5C8DCB05486A95EA1D14B9BDFC28F5F4.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/JT/QZIMHBPPH5S32HJDB6N38N.uasset'
+[2025.03.30-23.57.49:234][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/E7/TAKLIR3N4AB5S1MOLHLWLQ
+[2025.03.30-23.57.49:235][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/TAKLIR3N4AB5S1MOLHLWLQCA9CD7CA4C3328896E44FA817BDA798A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/E7/TAKLIR3N4AB5S1MOLHLWLQ.uasset'
+[2025.03.30-23.57.49:239][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KM/OQZ9B3BQMU8JTQ3BMBTHVS
+[2025.03.30-23.57.49:240][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/OQZ9B3BQMU8JTQ3BMBTHVSD75275D049608967C8E8838F34E212E5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/KM/OQZ9B3BQMU8JTQ3BMBTHVS.uasset'
+[2025.03.30-23.57.49:244][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/AA/CMV37ACSY1EI2VFAPZQ37K
+[2025.03.30-23.57.49:246][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CMV37ACSY1EI2VFAPZQ37K0F50CF5948D15E2FC38BFAB0BA7D6CCF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/AA/CMV37ACSY1EI2VFAPZQ37K.uasset'
+[2025.03.30-23.57.49:250][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Y7/6NLOR94VLA3XMLL6VRRDS1
+[2025.03.30-23.57.49:250][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/6NLOR94VLA3XMLL6VRRDS19E2562B64774114DC9C84DA1C74BEF80.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/Y7/6NLOR94VLA3XMLL6VRRDS1.uasset'
+[2025.03.30-23.57.49:255][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/8V/7KWV4XIM6PP11N9610JTDM
+[2025.03.30-23.57.49:256][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/7KWV4XIM6PP11N9610JTDM91FFBA7C438249FC0B9E9890F15F7F39.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/8V/7KWV4XIM6PP11N9610JTDM.uasset'
+[2025.03.30-23.57.49:261][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4I/V1OZMDT4QEGV97CG2TH7W7
+[2025.03.30-23.57.49:262][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/V1OZMDT4QEGV97CG2TH7W739EB467049D42CEBD0481195FED5F194.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/4I/V1OZMDT4QEGV97CG2TH7W7.uasset'
+[2025.03.30-23.57.49:265][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/US/XAHOX5LJ21AHVLIZTNSF6P
+[2025.03.30-23.57.49:267][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/XAHOX5LJ21AHVLIZTNSF6P52E0DD2840EF90A88BC5DEA8300A6CA2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/US/XAHOX5LJ21AHVLIZTNSF6P.uasset'
+[2025.03.30-23.57.49:271][997]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/9U/UD8XEU27OYAMNHSY0HVKQT
+[2025.03.30-23.57.49:272][997]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/UD8XEU27OYAMNHSY0HVKQT3B940F76437F140821DE54B8B7CD5FF2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/9U/UD8XEU27OYAMNHSY0HVKQT.uasset'
+[2025.03.30-23.57.49:284][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 257.785 ms (total: 8.17 sec)
+[2025.03.30-23.57.49:423][997]LogContentValidation: Display: Starting to validate 16 assets
+[2025.03.30-23.57.49:423][997]LogContentValidation: Enabled validators:
+[2025.03.30-23.57.49:423][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.30-23.57.49:423][997]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.30-23.57.49:423][997]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.30-23.57.49:423][997]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.30-23.57.49:423][997]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.30-23.57.49:423][997]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.30-23.57.49:424][997]AssetCheck: /Game/NewMap Validating asset
+[2025.03.30-23.57.52:669][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-23.57.52:788][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.30-23.57.52:807][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.30-23.57.52:829][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.30-23.57.52:841][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 171.265 ms (total: 8.34 sec)
+[2025.03.30-23.58.39:316][277]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.30-23.58.39:329][277]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.03.30-23.58.39:336][277]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.03.30-23.58.39:349][278]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.03.30-23.58.48:886][840]LogContentBrowser: Attempting asset rename: NewBlueprint -> Checkpoint
+[2025.03.30-23.58.48:894][840]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.03.30-23.58.50:021][906]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Checkpoint.Checkpoint
+[2025.03.30-23.58.50:022][906]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2025.03.30-23.59.02:454][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-23.59.02:549][591]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Checkpoint] ([2] browsable assets)...
+[2025.03.30-23.59.02:549][591]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoint]
+[2025.03.30-23.59.02:549][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Checkpoint" FILE="../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset" SILENT=true
+[2025.03.30-23.59.02:552][591]LogSavePackage: Moving output files for package: /Game/Checkpoint
+[2025.03.30-23.59.02:552][591]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CheckpointEF45F6F949A22D7987EF4195FD42649D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset'
+[2025.03.30-23.59.02:565][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 111.381 ms (total: 8.45 sec)
+[2025.03.30-23.59.02:710][591]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.30-23.59.02:710][591]LogContentValidation: Enabled validators:
+[2025.03.30-23.59.02:710][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.30-23.59.02:710][591]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.30-23.59.02:710][591]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.30-23.59.02:710][591]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.30-23.59.02:710][591]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.30-23.59.02:710][591]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.30-23.59.02:710][591]AssetCheck: /Game/Checkpoint Validating asset
+[2025.03.30-23.59.03:479][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.30-23.59.03:575][633]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Checkpoint] ([2] browsable assets)...
+[2025.03.30-23.59.03:575][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoint]
+[2025.03.30-23.59.03:575][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Checkpoint" FILE="../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset" SILENT=true
+[2025.03.30-23.59.03:578][633]LogSavePackage: Moving output files for package: /Game/Checkpoint
+[2025.03.30-23.59.03:587][633]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CheckpointED89CE894255F0909CC023867AAB3B2E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset'
+[2025.03.30-23.59.03:599][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 120.204 ms (total: 8.57 sec)
+[2025.03.30-23.59.03:753][633]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.30-23.59.03:753][633]LogContentValidation: Enabled validators:
+[2025.03.30-23.59.03:753][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.30-23.59.03:753][633]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.30-23.59.03:753][633]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.30-23.59.03:753][633]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.30-23.59.03:753][633]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.30-23.59.03:753][633]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.30-23.59.03:753][633]AssetCheck: /Game/Checkpoint Validating asset
+[2025.03.30-23.59.36:038][300]LogSlate: Window 'Checkpoint' being destroyed
+[2025.03.30-23.59.36:049][300]LogSlate: Window 'Checkpoint' being destroyed
+[2025.03.30-23.59.36:057][300]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-23.59.36:057][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-23.59.36:356][300]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.30-23.59.36:356][300]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-23.59.36:356][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-23.59.36:445][300]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-23.59.36:445][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-23.59.36:567][300]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-23.59.36:567][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-23.59.36:686][300]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-23.59.36:687][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-23.59.36:719][300]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.03.30-23.59.36:719][300]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.03.30-23.59.36:719][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.30-23.59.36:840][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.03.30-23.59.42:657][643]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2025.03.30-23.59.48:658][990]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Checkpoint.Checkpoint
+[2025.03.30-23.59.48:658][990]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2025.03.30-23.59.49:483][990]LogSlate: External Image Picker: DecompressImage failed
+[2025.03.31-00.00.43:394][127]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.00.43:493][127]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Checkpoint] ([2] browsable assets)...
+[2025.03.31-00.00.43:502][127]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Checkpoint.Checkpoint]
+[2025.03.31-00.00.43:502][127]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoint]
+[2025.03.31-00.00.43:502][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Checkpoint" FILE="../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset" SILENT=true
+[2025.03.31-00.00.43:505][127]LogSavePackage: Moving output files for package: /Game/Checkpoint
+[2025.03.31-00.00.43:515][127]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CheckpointCA170C304B6D75E607F4D182C6B54CB1.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset'
+[2025.03.31-00.00.43:527][127]LogFileHelpers: InternalPromptForCheckoutAndSave took 133.705 ms (total: 8.70 sec)
+[2025.03.31-00.00.43:673][127]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-00.00.43:673][127]LogContentValidation: Enabled validators:
+[2025.03.31-00.00.43:673][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.00.43:673][127]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.00.43:673][127]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.00.43:673][127]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.00.43:673][127]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.00.43:673][127]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.00.43:673][127]AssetCheck: /Game/Checkpoint Validating asset
+[2025.03.31-00.00.44:269][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.31-00.00.44:963][186]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.00.45:061][186]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Checkpoint] ([2] browsable assets)...
+[2025.03.31-00.00.45:067][186]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Checkpoint.Checkpoint]
+[2025.03.31-00.00.45:067][186]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoint]
+[2025.03.31-00.00.45:067][186]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Checkpoint" FILE="../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset" SILENT=true
+[2025.03.31-00.00.45:071][186]LogSavePackage: Moving output files for package: /Game/Checkpoint
+[2025.03.31-00.00.45:073][186]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CheckpointE009C88947C906D7F64E158CF423EF98.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset'
+[2025.03.31-00.00.45:084][186]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.048 ms (total: 8.82 sec)
+[2025.03.31-00.00.45:243][186]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-00.00.45:243][186]LogContentValidation: Enabled validators:
+[2025.03.31-00.00.45:243][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.00.45:243][186]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.00.45:243][186]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.00.45:243][186]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.00.45:243][186]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.00.45:244][186]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.00.45:244][186]AssetCheck: /Game/Checkpoint Validating asset
+[2025.03.31-00.00.52:382][602]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5920.793945
+[2025.03.31-00.00.52:498][609]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-00.00.52:498][609]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5920.894531, Update Interval: 323.910645
+[2025.03.31-00.01.03:087][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.03.31-00.01.03:811][235]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.01.03:904][235]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Checkpoint] ([2] browsable assets)...
+[2025.03.31-00.01.03:943][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Checkpoint.Checkpoint]
+[2025.03.31-00.01.03:943][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Checkpoint]
+[2025.03.31-00.01.03:943][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Checkpoint" FILE="../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset" SILENT=true
+[2025.03.31-00.01.03:945][235]LogSavePackage: Moving output files for package: /Game/Checkpoint
+[2025.03.31-00.01.03:948][235]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/Checkpoint25E53C1C4905630344AB0CB1C521011A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Checkpoint.uasset'
+[2025.03.31-00.01.03:959][235]LogFileHelpers: InternalPromptForCheckoutAndSave took 148.534 ms (total: 8.97 sec)
+[2025.03.31-00.01.04:109][235]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-00.01.04:109][235]LogContentValidation: Enabled validators:
+[2025.03.31-00.01.04:109][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.01.04:109][235]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.01.04:109][235]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.01.04:109][235]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.01.04:109][235]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.01.04:109][235]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.01.04:109][235]AssetCheck: /Game/Checkpoint Validating asset
+[2025.03.31-00.01.14:555][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NPC1.NPC1
+[2025.03.31-00.01.14:555][833]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2025.03.31-00.01.37:023][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CharacterController.CharacterController
+[2025.03.31-00.01.37:023][ 73]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2025.03.31-00.02.14:434][ 98]LogEditorTransaction: Undo Change Class Pin Value
+[2025.03.31-00.02.14:575][ 98]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.31-00.02.23:448][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.03.31-00.02.23:887][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.02.23:984][612]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterController] ([2] browsable assets)...
+[2025.03.31-00.02.24:020][612]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CharacterController.CharacterController]
+[2025.03.31-00.02.24:020][612]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterController]
+[2025.03.31-00.02.24:028][612]LogSavePackage: Moving output files for package: /Game/CharacterController
+[2025.03.31-00.02.24:038][612]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CharacterControllerF6F9B4B447994EFDE670C78114CFFFE5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/CharacterController.uasset'
+[2025.03.31-00.02.24:051][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 163.623 ms (total: 9.13 sec)
+[2025.03.31-00.02.24:196][612]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-00.02.24:196][612]LogContentValidation: Enabled validators:
+[2025.03.31-00.02.24:196][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.02.24:196][612]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.02.24:196][612]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.02.24:196][612]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.02.24:196][612]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.02.24:196][612]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.02.24:196][612]AssetCheck: /Game/CharacterController Validating asset
+[2025.03.31-00.03.17:955][690]LogEditorTransaction: Undo Create Pin Link
+[2025.03.31-00.03.18:094][690]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.31-00.04.20:872][230]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Content\CharacterController.uasset: [Compiler] The type of  Array  is undetermined.  Connect something to  For Each Loop  to imply a specific type.
+[2025.03.31-00.04.20:873][230]LogBlueprint: Error: [AssetLog] C:\Users\willi\OneDrive\Documents\GitHub\UnrealEngineDemo\FirstProject\StarterProject\Content\CharacterController.uasset: [Compiler] The type of  Target Array generated from expanding For Each Loop  is undetermined.  Connect something to  Length generated from expanding For Each Loop  to imply a specific type.
+[2025.03.31-00.04.20:924][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.03.31-00.04.42:510][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.31-00.04.43:273][433]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.04.43:372][433]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/CharacterController] ([2] browsable assets)...
+[2025.03.31-00.04.43:411][433]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/CharacterController.CharacterController]
+[2025.03.31-00.04.43:411][433]OBJ SavePackage: Finished generating thumbnails for package [/Game/CharacterController]
+[2025.03.31-00.04.43:419][433]LogSavePackage: Moving output files for package: /Game/CharacterController
+[2025.03.31-00.04.43:420][433]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CharacterControllerDB5D93DD42847D3999DF89A400ECDEFB.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/CharacterController.uasset'
+[2025.03.31-00.04.43:431][433]LogFileHelpers: InternalPromptForCheckoutAndSave took 159.142 ms (total: 9.29 sec)
+[2025.03.31-00.04.43:579][433]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.31-00.04.43:579][433]LogContentValidation: Enabled validators:
+[2025.03.31-00.04.43:579][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.04.43:579][433]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.04.43:579][433]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.04.43:579][433]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.04.43:579][433]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.04.43:579][433]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.04.43:580][433]AssetCheck: /Game/CharacterController Validating asset
+[2025.03.31-00.07.00:708][672]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6289.122559
+[2025.03.31-00.07.01:709][675]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-00.07.01:709][675]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6289.789551, Update Interval: 354.944305
+[2025.03.31-00.09.21:580][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-00.09.21:590][409]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-00.09.21:590][409]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.03.31-00.09.21:598][409]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 8.534 ms (total: 63.901 ms)
+[2025.03.31-00.09.21:598][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-00.09.21:598][409]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2025.03.31-00.09.21:601][409]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2025.03.31-00.09.21:621][410]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.03.31-00.09.21:631][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009092s)
+[2025.03.31-00.09.21:631][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.009144s)
+[2025.03.31-00.09.21:651][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.31-00.09.21:657][410]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.03.31-00.09.21:659][410]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-00.09.21:659][410]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-00.09.21:659][410]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-00.09.21:659][410]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-00.09.21:668][410]LogWorldPartition: Display: WorldPartition initialize took 8.802 ms (total: 514.548 ms)
+[2025.03.31-00.09.21:668][410]LogPlayLevel: PIE: World Init took: (0.010461s)
+[2025.03.31-00.09.21:669][410]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.31-00.09.21:669][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-00.09.21:669][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-00.09.21:669][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-00.09.21:669][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-00.09.21:669][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-00.09.21:669][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-00.09.21:669][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-00.09.21:669][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-00.09.21:669][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-00.09.21:669][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-00.09.21:669][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-00.09.21:672][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-00.09.21:697][410]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Crusher Evo)
+[2025.03.31-00.09.21:697][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-00.09.21:697][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-00.09.21:697][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-00.09.21:698][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.31-00.09.21:698][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.31-00.09.21:701][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.31-00.09.21:701][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.31-00.09.21:701][410]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.31-00.09.21:701][410]LogAudio: Display: Audio Device (ID: 10) registered with world 'NewMap'.
+[2025.03.31-00.09.21:701][410]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.31-00.09.21:704][410]LogLoad: Game class is 'GamemodeBase_C'
+[2025.03.31-00.09.21:706][410]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.03.30-20.09.21
+[2025.03.31-00.09.21:706][410]LogWorld: Bringing up level for play took: 0.001530
+[2025.03.31-00.09.21:712][410]LogStreaming: Display: FlushAsyncLoading(2165,2164,2163,2162,2161,2160,2159,2158,2157,2156,2155,2154,2153,2152,2151,2150,2149,2148,2147,2146,2145,2144,2143,2142,2141,2140,2139,2138,2137,2136,2135,2134,2133,2132,2131,2130,2126,2127,2128,2129,2124,2125,2109,2110,2111,2112,2113,2114,2115,2116,2117,2118,2119,2120,2121,2122,2123,2108,2107,2036,2037,2038,2039,2040,2041,2042,2043,2044,2045,2046,2047,2048,2049,2050,2051,2052,2053,2054,2055,2056,2057,2058,2059,2060,2061,2062,2063,2064,2065,2066,2067,2068,2069,2070,2071,2072,2073,2074,2075,2076,2077,2078,2079,2080,2081,2082,2083,2084,2085,2086,2087,2088,2089,2090,2091,2092,2093,2094,2095,2096,2097,2098,2099,2100,2101,2102,2103,2104,2105,2106,2035,1989,1990,1991,1992,1993,1994,1995,1996,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033,2034,1988): 178 QueuedPackages, 0 AsyncPackages
+[2025.03.31-00.09.21:912][410]PIE: Server logged in
+[2025.03.31-00.09.21:914][410]PIE: Play in editor total start time 0.324 seconds.
+[2025.03.31-00.09.26:179][657]LogBlueprintUserMessages: [NPC1_C_UAID_F46ADDF0688A2B5A02_1273396103] Hello player
+[2025.03.31-00.09.26:984][705]LogBlueprintUserMessages: [NPC1_C_UAID_F46ADDF0688A2B5A02_1273396103] Please fetch me some cheese so we can eat
+[2025.03.31-00.09.28:063][770]LogBlueprintUserMessages: [NPC1_C_UAID_F46ADDF0688A2B5A02_1273396103] If you don't, womp womp 
+[2025.03.31-00.09.46:211][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-00.09.46:211][856]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.03.31-00.09.46:222][856]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-00.09.46:222][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-00.09.46:222][856]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_NewMap.NewMap
+[2025.03.31-00.09.46:227][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-00.09.46:234][856]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-00.09.46:263][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-00.09.46:263][856]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.31-00.09.46:263][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.31-00.09.46:265][856]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.31-00.09.46:281][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2025.03.31-00.09.46:323][857]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2025.03.31-00.11.40:833][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.11.40:963][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.03.31-00.11.40:993][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-00.11.41:015][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-00.11.41:019][537]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/IH/924HGCDT9JF4SBN8UAL3K5
+[2025.03.31-00.11.41:021][537]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/924HGCDT9JF4SBN8UAL3K5636F84834636C042FFC4B59FE0E4D680.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/2/IH/924HGCDT9JF4SBN8UAL3K5.uasset'
+[2025.03.31-00.11.41:024][537]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/7J/DCP2I355LJJMG9YEHVWJ7K
+[2025.03.31-00.11.41:025][537]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/DCP2I355LJJMG9YEHVWJ7KC8B6AADD49224983A20E1CADD0531CD9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/7J/DCP2I355LJJMG9YEHVWJ7K.uasset'
+[2025.03.31-00.11.41:029][537]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/M0/FO4ME3UBTE3UHLK8P2JAIZ
+[2025.03.31-00.11.41:030][537]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FO4ME3UBTE3UHLK8P2JAIZ5B4415F440BCC617BD10C59D73AC6B43.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/M0/FO4ME3UBTE3UHLK8P2JAIZ.uasset'
+[2025.03.31-00.11.41:034][537]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DR/BHF8QHS1FFUULTBA4M76D2
+[2025.03.31-00.11.41:035][537]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/BHF8QHS1FFUULTBA4M76D23F93AFB54D1F4F6AFE43648E8C61EFA6.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/DR/BHF8QHS1FFUULTBA4M76D2.uasset'
+[2025.03.31-00.11.41:039][537]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KL/09SFTV1GOKRDVRZMXLBPI5
+[2025.03.31-00.11.41:040][537]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/09SFTV1GOKRDVRZMXLBPI56B8F3EC94E0B5738AFE7E6986568AD5A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/KL/09SFTV1GOKRDVRZMXLBPI5.uasset'
+[2025.03.31-00.11.41:044][537]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/HZ/KHMHL5QHSXIPRZ3AQHFZY2
+[2025.03.31-00.11.41:045][537]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/KHMHL5QHSXIPRZ3AQHFZY24359B9E64A1F145F4027D0BBE9184882.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/HZ/KHMHL5QHSXIPRZ3AQHFZY2.uasset'
+[2025.03.31-00.11.41:048][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/2/Y2/2JEG0PGAYHAQA9AT85ZG9J] ([1] browsable assets)...
+[2025.03.31-00.11.41:048][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/2/Y2/2JEG0PGAYHAQA9AT85ZG9J]
+[2025.03.31-00.11.41:049][537]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/2/Y2/2JEG0PGAYHAQA9AT85ZG9J
+[2025.03.31-00.11.41:049][537]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/2JEG0PGAYHAQA9AT85ZG9JE530718E426754DD793C84B6EA5C6562.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalObjects__/NewMap/2/Y2/2JEG0PGAYHAQA9AT85ZG9J.uasset'
+[2025.03.31-00.11.41:060][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.938 ms (total: 9.52 sec)
+[2025.03.31-00.11.41:202][537]LogContentValidation: Display: Starting to validate 7 assets
+[2025.03.31-00.11.41:202][537]LogContentValidation: Enabled validators:
+[2025.03.31-00.11.41:202][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.11.41:202][537]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.11.41:202][537]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.11.41:202][537]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.11.41:202][537]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.11.41:202][537]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.11.41:203][537]AssetCheck: /Game/NewMap Validating asset
+[2025.03.31-00.11.43:922][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.31-00.11.43:940][685]LogContentBundle: [NewMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.31-00.11.43:940][685]LogWorldPartition: Display: GenerateStreaming for 'NewMap' started...
+[2025.03.31-00.11.43:949][685]LogWorldPartition: Display: GenerateStreaming for 'NewMap' took 9.327 ms (total: 73.229 ms)
+[2025.03.31-00.11.43:950][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.31-00.11.43:971][685]LogPlayLevel: Display: Creating online subsystem for client :Context_37
+[2025.03.31-00.11.43:973][685]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2025.03.31-00.11.44:021][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2025.03.31-00.11.44:032][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010015s)
+[2025.03.31-00.11.44:032][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.010130s)
+[2025.03.31-00.11.44:051][686]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.03.31-00.11.44:056][686]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2025.03.31-00.11.44:058][686]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.31-00.11.44:058][686]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.31-00.11.44:058][686]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_NewMap.NewMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.31-00.11.44:058][686]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.31-00.11.44:067][686]LogWorldPartition: Display: WorldPartition initialize took 9.277 ms (total: 523.825 ms)
+[2025.03.31-00.11.44:067][686]LogPlayLevel: PIE: World Init took: (0.011304s)
+[2025.03.31-00.11.44:068][686]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.31-00.11.44:068][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.31-00.11.44:068][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.31-00.11.44:068][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.31-00.11.44:068][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.31-00.11.44:068][686]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.31-00.11.44:068][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.31-00.11.44:068][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.31-00.11.44:068][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.31-00.11.44:068][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.31-00.11.44:068][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.31-00.11.44:068][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.31-00.11.44:071][686]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.31-00.11.44:091][686]LogAudioMixer: Display: Using Audio Hardware Device Headphones (2- Crusher Evo)
+[2025.03.31-00.11.44:091][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.31-00.11.44:091][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.31-00.11.44:093][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.31-00.11.44:093][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.31-00.11.44:093][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.31-00.11.44:095][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.31-00.11.44:096][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.31-00.11.44:096][686]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.31-00.11.44:096][686]LogAudio: Display: Audio Device (ID: 11) registered with world 'NewMap'.
+[2025.03.31-00.11.44:096][686]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.31-00.11.44:099][686]LogLoad: Game class is 'GamemodeBase_C'
+[2025.03.31-00.11.44:100][686]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2025.03.30-20.11.44
+[2025.03.31-00.11.44:100][686]LogWorld: Bringing up level for play took: 0.001427
+[2025.03.31-00.11.44:106][686]LogStreaming: Display: FlushAsyncLoading(2345,2344,2343,2342,2341,2340,2339,2338,2337,2336,2335,2334,2333,2332,2331,2330,2329,2328,2327,2326,2325,2324,2323,2322,2321,2320,2319,2318,2317,2316,2315,2314,2313,2312,2311,2310,2306,2307,2308,2309,2304,2305,2289,2290,2291,2292,2293,2294,2295,2296,2297,2298,2299,2300,2301,2302,2303,2288,2287,2216,2217,2218,2219,2220,2221,2222,2223,2224,2225,2226,2227,2228,2229,2230,2231,2232,2233,2234,2235,2236,2237,2238,2239,2240,2241,2242,2243,2244,2245,2246,2247,2248,2249,2250,2251,2252,2253,2254,2255,2256,2257,2258,2259,2260,2261,2262,2263,2264,2265,2266,2267,2268,2269,2270,2271,2272,2273,2274,2275,2276,2277,2278,2279,2280,2281,2282,2283,2284,2285,2286,2215,2169,2170,2171,2172,2173,2174,2175,2176,2177,2178,2179,2180,2181,2182,2183,2184,2185,2186,2187,2188,2189,2190,2191,2192,2193,2194,2195,2196,2197,2198,2199,2200,2201,2202,2203,2204,2205,2206,2207,2208,2209,2210,2211,2212,2213,2214,2168): 178 QueuedPackages, 0 AsyncPackages
+[2025.03.31-00.11.44:303][686]PIE: Server logged in
+[2025.03.31-00.11.44:305][686]PIE: Play in editor total start time 0.366 seconds.
+[2025.03.31-00.12.22:923][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-00.12.22:923][989]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2025.03.31-00.12.22:933][989]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.31-00.12.22:933][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-00.12.22:933][989]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_NewMap.NewMap
+[2025.03.31-00.12.22:938][989]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.31-00.12.22:945][989]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.31-00.12.22:973][989]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.31-00.12.22:973][989]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.31-00.12.22:973][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.31-00.12.22:975][989]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.31-00.12.22:989][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.31-00.12.23:081][990]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2025.03.31-00.12.28:656][317]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.12.28:787][317]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.31-00.12.28:811][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.12.28:835][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.31-00.12.28:849][317]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.340 ms (total: 9.71 sec)
+[2025.03.31-00.13.18:092][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.13.18:092][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.13.18:093][194]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_41
+[2025.03.31-00.13.19:113][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.03.31-00.13.19:118][252]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.03.31-00.13.19:121][252]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.13.19:121][252]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.13.19:124][252]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A305A02_1833275113
+[2025.03.31-00.13.25:256][588]Cmd: DUPLICATE
+[2025.03.31-00.13.25:256][588]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.13.40:080][452]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6688.479004
+[2025.03.31-00.13.40:166][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-00.13.40:166][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6688.546387, Update Interval: 303.358246
+[2025.03.31-00.14.13:955][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.14.14:079][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.31-00.14.14:104][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.31-00.14.14:127][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.14.14:129][379]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E] ([1] browsable assets)...
+[2025.03.31-00.14.14:129][379]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E]
+[2025.03.31-00.14.14:132][379]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E
+[2025.03.31-00.14.14:132][379]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FNQ3HZNGK9TX7W2SRNIE5E2E22958C46F63F201C5E0994E3A59E3E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E.uasset'
+[2025.03.31-00.14.14:135][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/KI/7FQ28DYPF6CWKQBEO531W5
+[2025.03.31-00.14.14:135][379]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/7FQ28DYPF6CWKQBEO531W5E89885BD43E66A8C4BCF7F9B013F3012.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/KI/7FQ28DYPF6CWKQBEO531W5.uasset'
+[2025.03.31-00.14.14:138][379]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6T/MU6QZJGJ0B8O8NO0L0YV60
+[2025.03.31-00.14.14:138][379]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/MU6QZJGJ0B8O8NO0L0YV60AE20619343A34829D2760E894F3F3E1A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/6T/MU6QZJGJ0B8O8NO0L0YV60.uasset'
+[2025.03.31-00.14.14:153][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 198.290 ms (total: 9.91 sec)
+[2025.03.31-00.14.14:291][379]LogContentValidation: Display: Starting to validate 3 assets
+[2025.03.31-00.14.14:291][379]LogContentValidation: Enabled validators:
+[2025.03.31-00.14.14:291][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.14.14:291][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.14.14:291][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.14.14:291][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.14.14:291][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.14.14:292][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.14.14:292][379]AssetCheck: /Game/NewMap Validating asset
+[2025.03.31-00.14.48:968][405]LogStreaming: Display: FlushAsyncLoading(2348): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-00.14.48:971][405]LogStaticMesh: Display: Building static mesh SM_MixedGrassLumpLargeB (Required Memory Estimate: 0.5946 MB)...
+[2025.03.31-00.14.48:988][405]LogStaticMesh: Built static mesh [0.02s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.03.31-00.14.49:146][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.03.31-00.14.49:146][406]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.03.31-00.14.49:147][406]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_42
+[2025.03.31-00.14.49:996][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.31-00.14.50:003][451]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.03.31-00.14.50:008][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.03.31-00.14.50:008][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB
+[2025.03.31-00.14.50:011][451]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/GrassLumps/SM_MixedGrassLumpLargeB.SM_MixedGrassLumpLargeB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A305A02_1924162115
+[2025.03.31-00.14.57:669][835]Cmd: DELETE
+[2025.03.31-00.14.57:669][835]Cmd: ACTOR DELETE
+[2025.03.31-00.14.57:672][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.31-00.14.57:696][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.03.31-00.14.57:703][835]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.03.31-00.15.06:409][339]LogStreaming: Display: FlushAsyncLoading(2349): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-00.15.06:411][339]LogStaticMesh: Display: Building static mesh SM_BackgroundMountainA (Required Memory Estimate: 0.900802 MB)...
+[2025.03.31-00.15.06:433][339]LogStaticMesh: Built static mesh [0.02s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.03.31-00.15.06:588][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.03.31-00.15.06:588][341]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.03.31-00.15.06:589][341]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_43
+[2025.03.31-00.15.08:643][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.31-00.15.08:648][449]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.03.31-00.15.08:653][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.03.31-00.15.08:653][449]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA
+[2025.03.31-00.15.08:656][449]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Ground/BackgroundMountains/SM_BackgroundMountainA.SM_BackgroundMountainA as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A305A02_1942807116
+[2025.03.31-00.15.18:919][997]Cmd: DELETE
+[2025.03.31-00.15.18:919][997]Cmd: ACTOR DELETE
+[2025.03.31-00.15.18:921][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.31-00.15.18:947][997]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.31-00.15.18:952][997]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.03.31-00.15.40:334][154]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'r.Water.WaterInfo.RenderMethod'. 
+[2025.03.31-00.16.00:528][164]Cmd: TRANSACTION UNDO
+[2025.03.31-00.16.00:528][164]LogEditorTransaction: Undo Clicking on Actors
+[2025.03.31-00.16.00:746][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.31-00.16.03:543][318]Cmd: TRANSACTION UNDO
+[2025.03.31-00.16.03:543][318]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.31-00.16.03:712][318]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.31-00.16.05:988][438]Cmd: TRANSACTION UNDO
+[2025.03.31-00.16.05:988][438]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.31-00.16.06:153][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.31-00.16.13:642][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.16.13:759][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.03.31-00.16.13:788][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-00.16.13:808][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.16.13:871][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2025.03.31-00.16.13:873][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/H67VGU7BHNHPWWQEMQJ41J836184254B972F2965BB81B84E18D565.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset'
+[2025.03.31-00.16.13:897][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2025.03.31-00.16.13:898][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/STFWH78SWHO1BT3JB2S9GT480AB91D4D960576DEF94CADA565C6F8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset'
+[2025.03.31-00.16.13:916][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+[2025.03.31-00.16.13:918][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/N5WZ7N63Q2DBG05ZT1Y94VC8FE6BEB42132D1DC4225984E675E331.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V.uasset'
+[2025.03.31-00.16.13:941][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+[2025.03.31-00.16.13:944][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/QCU8K2REN785K74C0JAHL871FD41704ACADA6ABB4271AA33B8D070.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8.uasset'
+[2025.03.31-00.16.13:960][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+[2025.03.31-00.16.13:961][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/PZ5XNZU157V0GDAJAXC2DQ354BBD9848270335B915DD8B9214604E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ.uasset'
+[2025.03.31-00.16.13:983][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2025.03.31-00.16.13:984][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/V9CAJRQOOCARULA8KSKFKFDCDEDE584B6CA7958418418F81D13EA1.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF.uasset'
+[2025.03.31-00.16.14:000][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2025.03.31-00.16.14:002][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/K5XHNT2TJPQ6HM9TN0HG8REF599DB34EB4D65C0BDE0997A4FDF124.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R.uasset'
+[2025.03.31-00.16.14:023][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2025.03.31-00.16.14:024][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/QBOG0EUDUJ3I7CKDLU6SM56BBF1D1948415FBF613C99A4A695E638.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5.uasset'
+[2025.03.31-00.16.14:044][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2025.03.31-00.16.14:046][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/Y8EZ2AXLMEN39WTAPXB6VM9016626048FDC3BFBA76D3BD36DEA5F0.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM.uasset'
+[2025.03.31-00.16.14:069][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2025.03.31-00.16.14:071][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/RPVI13LNVTY93V3EQ1Y4FVCDBB5257421B8C29243F02AB3FDEEFF8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV.uasset'
+[2025.03.31-00.16.14:091][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2025.03.31-00.16.14:094][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/UDWQC9DWW7DL22CPJ4RVSICE0BA09F4EAAD1FA81A5608323A59402.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI.uasset'
+[2025.03.31-00.16.14:114][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2025.03.31-00.16.14:115][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/EE3LUXOWULAYGXN1IPS4S2AC0C0AD64FD07B2C38410AADA3367196.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2.uasset'
+[2025.03.31-00.16.14:138][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2025.03.31-00.16.14:139][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/Y3GF0HWTXA7DHH1FL3IF9RD23B73684F252C14FC7DFCAF71438E78.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R.uasset'
+[2025.03.31-00.16.14:159][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2025.03.31-00.16.14:161][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/XX81YC0HUFD6L3IX7RWMS0CF3D1FEB41E562441D27758701C1021C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0.uasset'
+[2025.03.31-00.16.14:183][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2025.03.31-00.16.14:185][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/5E0J4DYSYB0DUPM0H3UFMJ2D2E50C24A7A2AEB9C9B3392C20C5CFA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ.uasset'
+[2025.03.31-00.16.14:207][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2025.03.31-00.16.14:209][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/I3YAKOIE9OZW8RGU76MLDU553708F04808E096A73E26892BBDFA89.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU.uasset'
+[2025.03.31-00.16.14:229][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2025.03.31-00.16.14:231][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/8TXEZSVIN8XJXFAAPYJ9PFB56DEA4640B1B3E8C35D7093FFBBAE01.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF.uasset'
+[2025.03.31-00.16.14:251][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2025.03.31-00.16.14:253][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/99H285CLZ96HCTKT3S7S79824E100340F9426E14A1229E3D0DE375.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79.uasset'
+[2025.03.31-00.16.14:273][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2025.03.31-00.16.14:274][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/J8JQXJ67F9KX47CCDA8ZMF65D72EBB492C871A1BA0F3BD0E7734C3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF.uasset'
+[2025.03.31-00.16.14:294][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2025.03.31-00.16.14:296][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/7UWDO77CF7TNVQ9BB75XCF44B6D4294FB7B4406A7BE49309032593.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF.uasset'
+[2025.03.31-00.16.14:319][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2025.03.31-00.16.14:320][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/TIHXLB5639NV4RM260YDTWA51DDA8A42A38505401886A0011370CF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW.uasset'
+[2025.03.31-00.16.14:341][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2025.03.31-00.16.14:343][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/GV76BBB2V0EFHV7ELK9A0YF8843FC44D2FCAF72D2D6E8AE2C96E03.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y.uasset'
+[2025.03.31-00.16.14:364][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2025.03.31-00.16.14:365][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/39OTWHVDSI751PAH6731ID97C86F034B2ED572A01835B73D6F3D6F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID.uasset'
+[2025.03.31-00.16.14:385][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2025.03.31-00.16.14:386][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CHPLQ79FFGJWC3VACZJA900E8C56D54C179F2F611B9886D19712FA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90.uasset'
+[2025.03.31-00.16.14:409][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2025.03.31-00.16.14:416][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/X4NPSX8ZUWI1DPH52YEUUP1DEF823E4FEAE7DA45B905B2A519A0E3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP.uasset'
+[2025.03.31-00.16.14:437][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2025.03.31-00.16.14:438][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/3B5158OKASMIKGFDZC9KRF1D96C6E74EE54388EFAAA2848FB4E985.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF.uasset'
+[2025.03.31-00.16.14:459][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2025.03.31-00.16.14:460][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/MRZ7RQN5KANFM03I7EKRCC4C6117F743DE0C4C5792618F3A708526.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC.uasset'
+[2025.03.31-00.16.14:483][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2025.03.31-00.16.14:484][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/XQN8LZWIDWMWIMOBUZOJDHF92CBF2C4798CC2057FC438C392E27D9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH.uasset'
+[2025.03.31-00.16.14:506][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2025.03.31-00.16.14:507][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JJD8SHJCMNFNMC34COATAM10C21E6D4302587FE20ED5AECFE183F8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM.uasset'
+[2025.03.31-00.16.14:532][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2025.03.31-00.16.14:533][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/ELJ3HI994B42IQIWQEZNGD766F2341424ADE18CE1890B50EAA55E9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD.uasset'
+[2025.03.31-00.16.14:555][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2025.03.31-00.16.14:556][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/HYGURXU7M62N8WAUIXLWPQ258150AE40AEAFB74B9927B509388AE9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ.uasset'
+[2025.03.31-00.16.14:581][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2025.03.31-00.16.14:582][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FH4UWQ2MQA5KPUZVXS23LJ6B20DC1E4185B10F91A8A8BD2DDB597D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ.uasset'
+[2025.03.31-00.16.14:605][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2025.03.31-00.16.14:607][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/PLU0RE738EMG7CF7VC8D9S09339EBC40AF47FF98F108A2059B5EAB.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S.uasset'
+[2025.03.31-00.16.14:627][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2025.03.31-00.16.14:628][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/KXAGD7OP6IEQ3K8LWI86RL1547F794428491B33A031F84108DF68D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL.uasset'
+[2025.03.31-00.16.14:649][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2025.03.31-00.16.14:651][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/9034HM4Y3YU11DE4XNPRA9AB2350A248F9E70F2A1B8FBF8DF88F21.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9.uasset'
+[2025.03.31-00.16.14:671][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2025.03.31-00.16.14:673][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/OHRQN7RF5THM8Z6O6262I4C991DE7547286E0BF07F579C19B1BFB2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4.uasset'
+[2025.03.31-00.16.14:696][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2025.03.31-00.16.14:699][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/TAVO56E9B1HVH1F45RLBIA715A4BA442BDB9F068E5999147B7AF76.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA.uasset'
+[2025.03.31-00.16.14:718][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2025.03.31-00.16.14:719][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/VXH4MI02ODW8DKNLA2MOK3A48132C14BDA103001C9B6BFFA3913DB.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3.uasset'
+[2025.03.31-00.16.14:740][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2025.03.31-00.16.14:742][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/4ND4ZK6J06I5L4DPSTPYW925CDD24A4407ABFEF7173A8734018B1B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9.uasset'
+[2025.03.31-00.16.14:762][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2025.03.31-00.16.14:763][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/0XXSVY1Y0D2HIHA43BVMPH5069D1624062D988277F64B905F07BC3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH.uasset'
+[2025.03.31-00.16.14:786][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2025.03.31-00.16.14:787][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CK3DVSRDA9WTQU5TC2XO2V59624B8D4B0341A4400B4E916BC0C61D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V.uasset'
+[2025.03.31-00.16.14:808][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2025.03.31-00.16.14:809][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JV2GOVBPB8GZ9MQUICHC9SDA9497E34236557AF2CD419E30E7D4CD.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S.uasset'
+[2025.03.31-00.16.14:831][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2025.03.31-00.16.14:833][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/NURB0U7U9ZV4H4LX7FT8T2803A81084153F0F9572A12BAD6911A9E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2.uasset'
+[2025.03.31-00.16.14:860][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2025.03.31-00.16.14:861][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/B3NPG0KFON6BVW5ECZJSUIFC8AB3194B6503EABF4B9CA52293EED5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI.uasset'
+[2025.03.31-00.16.14:882][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2025.03.31-00.16.14:883][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/BULBFMUS7ADZJMH54QGDK91C8BDBDA4FD32C933ADBA6B0EF998554.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9.uasset'
+[2025.03.31-00.16.14:904][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2025.03.31-00.16.14:906][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/1HONC7HVU91I909A4N80W2394AE0D9466683DB8AA92591677F4297.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2.uasset'
+[2025.03.31-00.16.14:927][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2025.03.31-00.16.14:929][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/6S23OQXPMF10HYXLB9OEIPC7AF2BB649555B5DDF37C2AE5B791455.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP.uasset'
+[2025.03.31-00.16.14:951][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2025.03.31-00.16.14:953][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/L8FAOYPHJNQSTCW3XMMSJT99077A2C435C228081B4B8AB268DA1B4.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT.uasset'
+[2025.03.31-00.16.14:974][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2025.03.31-00.16.14:975][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/29WASR1BMNC6IXHW8I5KZ8A18496DD463E073499D47E9CA6607388.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8.uasset'
+[2025.03.31-00.16.14:998][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2025.03.31-00.16.14:999][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/T187Z8E2C6CPJLXCH06KRJF154C9264602AD866119CA991A9982AE.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ.uasset'
+[2025.03.31-00.16.15:019][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2025.03.31-00.16.15:021][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/85792LT2Y93I704I1JYP1K173494644F32C8ECDD82EF8E8E65FC7F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K.uasset'
+[2025.03.31-00.16.15:043][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2025.03.31-00.16.15:044][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/E7UFHHQZ7B8TLAL6Y74JRC781B6EDD4DEA0425B572E1A422B8A915.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC.uasset'
+[2025.03.31-00.16.15:067][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2025.03.31-00.16.15:069][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/Y23P0KHN1XII71UX7D1H8QF86400D64E8D16B32F9A568B5E927B82.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q.uasset'
+[2025.03.31-00.16.15:090][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2025.03.31-00.16.15:092][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/90QVEWVNXY6N07CS9SHQPMFED26FB14A299F013B243EAE86DD0079.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM.uasset'
+[2025.03.31-00.16.15:114][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2025.03.31-00.16.15:115][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FL16ITLR22643N9B35THAR7E44D51A4EAF42A088BB6A99F7837065.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR.uasset'
+[2025.03.31-00.16.15:139][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2025.03.31-00.16.15:141][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/YMDE4WERKLNXIT8TVTH5OWD096E2C74788DC4630AF3DA8F9171371.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW.uasset'
+[2025.03.31-00.16.15:163][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2025.03.31-00.16.15:165][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/NERX0MWYRICL228ZB8J0QWF4D81A044F3705C4369A7FBAE0BA5D8F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW.uasset'
+[2025.03.31-00.16.15:187][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2025.03.31-00.16.15:189][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/VZU403KFJ6UJQ2M3VY6736FDA1E63142C29C483D9F979D15A9E5FF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736.uasset'
+[2025.03.31-00.16.15:209][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2025.03.31-00.16.15:210][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JANFZ62JMG0U1Z3UNCQVKV75098609476CB67DADA631AAE3D50831.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV.uasset'
+[2025.03.31-00.16.15:231][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2025.03.31-00.16.15:233][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/SPYD0PSGU4M3NK7DI5RDRMC83F324B422821246BCCDAB188742F2A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM.uasset'
+[2025.03.31-00.16.15:253][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2025.03.31-00.16.15:254][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/M58JIDBQC2JEOWYFQ17JSY1E4B5528411953994A01A994B7A67197.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY.uasset'
+[2025.03.31-00.16.15:275][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2025.03.31-00.16.15:276][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/4G06FUR85LXRX1UCMOAFBE82018FAE4519C858C66B40B68E639101.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset'
+[2025.03.31-00.16.15:297][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2025.03.31-00.16.15:298][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/4NBZKC5PVQODH9SVSYPY1EE73C95B84B98AF94F793B69B45615735.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset'
+[2025.03.31-00.16.15:319][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2025.03.31-00.16.15:321][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/APFM7ONOEVP1TBHZZ5VTDAC0D54D8E44655984A5F59CADEF996BB9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset'
+[2025.03.31-00.16.15:343][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2025.03.31-00.16.15:344][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/UYA7A5HTQTJSRWJ4MK2WT6729B62144CE41D83FE9C2B8F98E9BE86.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset'
+[2025.03.31-00.16.15:347][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E] ([1] browsable assets)...
+[2025.03.31-00.16.15:347][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E]
+[2025.03.31-00.16.15:348][867]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E
+[2025.03.31-00.16.15:349][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FNQ3HZNGK9TX7W2SRNIE5E87C88379425365D5BA280C900CB5B08E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalObjects__/NewMap/9/ZW/FNQ3HZNGK9TX7W2SRNIE5E.uasset'
+[2025.03.31-00.16.15:352][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/KI/7FQ28DYPF6CWKQBEO531W5
+[2025.03.31-00.16.15:353][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/7FQ28DYPF6CWKQBEO531W568B0F2DF440FCEC26CE75AAABF5D5E6F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/KI/7FQ28DYPF6CWKQBEO531W5.uasset'
+[2025.03.31-00.16.15:355][867]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/C/ST/WZF72UQHHAMVR2UK704MHE] ([1] browsable assets)...
+[2025.03.31-00.16.15:355][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/C/ST/WZF72UQHHAMVR2UK704MHE]
+[2025.03.31-00.16.15:356][867]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/C/ST/WZF72UQHHAMVR2UK704MHE
+[2025.03.31-00.16.15:356][867]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/WZF72UQHHAMVR2UK704MHE087045A846A97A37EBBDA69B113D64A8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalObjects__/NewMap/C/ST/WZF72UQHHAMVR2UK704MHE.uasset'
+[2025.03.31-00.16.15:367][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.72 sec (total: 11.6 sec)
+[2025.03.31-00.16.15:507][867]LogContentValidation: Display: Starting to validate 68 assets
+[2025.03.31-00.16.15:507][867]LogContentValidation: Enabled validators:
+[2025.03.31-00.16.15:507][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.16.15:507][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.16.15:507][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.16.15:507][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.16.15:507][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.16.15:507][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.16.15:509][867]AssetCheck: /Game/NewMap Validating asset
+[2025.03.31-00.16.17:473][978]Cmd: TRANSACTION UNDO
+[2025.03.31-00.16.17:473][978]LogEditorTransaction: Undo Edit Landscape Material
+[2025.03.31-00.16.21:707][978]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.31-00.16.21:989][978]LogShaderCompilers: Display: ================================================
+[2025.03.31-00.16.21:989][978]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.31-00.16.21:989][978]LogShaderCompilers: Display: Total job queries 633, among them cache hits 354 (55.92%), DDC hits 205 (32.39%), Duplicates 9 (1.42%)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Tracking 270 distinct input hashes that result in 232 distinct outputs (85.93%)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: RAM used: 156.43 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Shaders Compiled: 78
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Jobs assigned 78, completed 78 (100%)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Average time worker was idle: 1528.41 s
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 1.45 s
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Job execution time: average 2.58 s, max 7.24 s
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Job life time (pending + execution): average 2.68 s, max 7.25
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Shader code size: average 10.128 KiB, min 2.105 KiB, max 19.926 KiB
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 17.75 s
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Jobs were issued in 50 batches (42 local, 8 distributed), average 1.56 jobs/batch (1.29 jobs/local batch. 3.00 jobs/distributed batch)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Average processing rate: 4.39 jobs/sec
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Total thread time: 64.328 s
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Total thread preprocess time: 7.85 s
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Percentage time preprocessing: 12.20%
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Effective parallelization: 3.62 (times faster than compiling all shaders on one thread). Distributed compilation was used.
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.48 sec, max 2.69 sec, min 2.27 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    3 times, average 2.09 sec, max 2.45 sec, min 1.70 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    3 times, average 1.66 sec, max 2.03 sec, min 1.34 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    4 times, average 1.61 sec, max 1.97 sec, min 0.98 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.36 sec, max 1.41 sec, min 1.32 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 11.57% of total time (compiled    6 times, average 1.24 sec, max 2.01 sec, min 0.70 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.99% of total time (compiled    4 times, average 1.61 sec, max 1.97 sec, min 0.98 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.74% of total time (compiled    3 times, average 2.09 sec, max 2.45 sec, min 1.70 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 9.57% of total time (compiled    5 times, average 1.23 sec, max 1.71 sec, min 1.03 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display:                                                 FLumenCardCS - 7.76% of total time (compiled    3 times, average 1.66 sec, max 2.03 sec, min 1.34 sec)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: === Material stats ===
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Materials Translated:    149
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Material Translation Only: 0.03 s (40%)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: Material Cache Hits: 21 (14%)
+[2025.03.31-00.16.21:991][978]LogShaderCompilers: Display: ================================================
+[2025.03.31-00.16.23:176][981]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.03.31-00.17.18:855][927]Cmd: POLY SELECT ALL
+[2025.03.31-00.17.45:455][414]Cmd: POLY SELECT ALL
+[2025.03.31-00.18.03:316][466]Cmd: DUPLICATE
+[2025.03.31-00.18.03:316][466]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.18.19:468][383]Cmd: DUPLICATE
+[2025.03.31-00.18.19:468][383]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.18.24:415][657]Cmd: DUPLICATE
+[2025.03.31-00.18.24:415][657]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.19.13:226][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.03.31-00.19.13:226][503]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.03.31-00.19.13:226][503]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_44
+[2025.03.31-00.19.13:764][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.03.31-00.19.13:778][532]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2025.03.31-00.19.13:783][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.03.31-00.19.13:783][532]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD
+[2025.03.31-00.19.13:786][532]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Oak/SM_OakAdultD.SM_OakAdultD as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A315A02_1114195296
+[2025.03.31-00.19.25:694][142]Cmd: DELETE
+[2025.03.31-00.19.25:694][142]Cmd: ACTOR DELETE
+[2025.03.31-00.19.25:710][142]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.31-00.19.25:734][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.03.31-00.19.25:741][142]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2025.03.31-00.19.41:745][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7050.147461
+[2025.03.31-00.19.41:843][ 68]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-00.19.41:844][ 68]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7050.229492, Update Interval: 327.164520
+[2025.03.31-00.20.06:226][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.03.31-00.20.06:226][467]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.03.31-00.20.06:226][467]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_45
+[2025.03.31-00.20.07:404][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-00.20.07:412][534]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.03.31-00.20.07:417][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.03.31-00.20.07:417][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB
+[2025.03.31-00.20.07:421][534]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAMatureB.SM_PineVariantAMatureB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A315A02_1167829297
+[2025.03.31-00.20.11:868][784]Cmd: DUPLICATE
+[2025.03.31-00.20.11:868][784]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.20.20:319][256]Cmd: DUPLICATE
+[2025.03.31-00.20.20:319][256]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.20.28:562][723]Cmd: DUPLICATE
+[2025.03.31-00.20.28:562][723]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.20.40:656][422]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 093...f8c
+[2025.03.31-00.20.40:656][422]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.552e+07
+[2025.03.31-00.20.40:808][429]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 093...f8c Access[Expires: 2025.03.31-01.19.55 Remaining: 7200.91] Refresh[Expires: 2025-09-26T15:32:51.643Z Remaining: 15523976.64] State: Valid
+[2025.03.31-00.20.41:572][469]Cmd: DUPLICATE
+[2025.03.31-00.20.41:572][469]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.20.53:471][155]Cmd: DUPLICATE
+[2025.03.31-00.20.53:471][155]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.21.04:201][761]Cmd: DUPLICATE
+[2025.03.31-00.21.04:201][761]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.21.13:517][305]Cmd: DUPLICATE
+[2025.03.31-00.21.13:517][305]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.21.36:009][604]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.21.36:141][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.03.31-00.21.36:169][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.21.36:193][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.31-00.21.36:196][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2025.03.31-00.21.36:199][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/H67VGU7BHNHPWWQEMQJ41JDA97183A4CDF06EE79DEBBAA6A7BAECA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset'
+[2025.03.31-00.21.36:221][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2025.03.31-00.21.36:222][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/STFWH78SWHO1BT3JB2S9GTB7D86FFC48126C2630AF7F9A537F460C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset'
+[2025.03.31-00.21.36:240][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+[2025.03.31-00.21.36:241][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/N5WZ7N63Q2DBG05ZT1Y94V2B4E756B4720F0CF36D1C2AB93612A23.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V.uasset'
+[2025.03.31-00.21.36:258][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+[2025.03.31-00.21.36:259][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/QCU8K2REN785K74C0JAHL84BA596E14FD69C4BC427CABA2CECCB38.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8.uasset'
+[2025.03.31-00.21.36:274][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+[2025.03.31-00.21.36:276][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/PZ5XNZU157V0GDAJAXC2DQB3C3BAEB4D89589C4464829CE70B3ADF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ.uasset'
+[2025.03.31-00.21.36:297][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2025.03.31-00.21.36:298][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/V9CAJRQOOCARULA8KSKFKF3C3EF6BF48E56575C44C5892B41606D6.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF.uasset'
+[2025.03.31-00.21.36:315][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2025.03.31-00.21.36:316][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/K5XHNT2TJPQ6HM9TN0HG8R91942D7840F75E6080989B9B2AE68215.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R.uasset'
+[2025.03.31-00.21.36:337][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2025.03.31-00.21.36:338][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/QBOG0EUDUJ3I7CKDLU6SM501208CDB472419FB7620378C75044B11.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5.uasset'
+[2025.03.31-00.21.36:358][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2025.03.31-00.21.36:359][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/Y8EZ2AXLMEN39WTAPXB6VM8C8AD8A24754E9501078F7A39761F71A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM.uasset'
+[2025.03.31-00.21.36:379][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2025.03.31-00.21.36:381][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/RPVI13LNVTY93V3EQ1Y4FV9B15180346402CFCF18F40BA1D9ACFE6.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV.uasset'
+[2025.03.31-00.21.36:401][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2025.03.31-00.21.36:402][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/UDWQC9DWW7DL22CPJ4RVSI9E7100E5479D3C78FAC6448A404F7F1D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI.uasset'
+[2025.03.31-00.21.36:423][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2025.03.31-00.21.36:424][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/EE3LUXOWULAYGXN1IPS4S2134BD1724E7A3E7FA43B78A08987035D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2.uasset'
+[2025.03.31-00.21.36:444][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2025.03.31-00.21.36:446][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/Y3GF0HWTXA7DHH1FL3IF9RE62FC2924B7CEDA3FB9A999727A8CD9E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R.uasset'
+[2025.03.31-00.21.36:466][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2025.03.31-00.21.36:468][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/XX81YC0HUFD6L3IX7RWMS04616DDFA461DA6D93D79EB9BD19A4AE9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0.uasset'
+[2025.03.31-00.21.36:488][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2025.03.31-00.21.36:489][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/5E0J4DYSYB0DUPM0H3UFMJ1DD776C94941AA6E6CA81499D9D7B760.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ.uasset'
+[2025.03.31-00.21.36:512][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2025.03.31-00.21.36:514][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/I3YAKOIE9OZW8RGU76MLDU2CF162AA4540323293E174A9FE87BD64.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU.uasset'
+[2025.03.31-00.21.36:534][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2025.03.31-00.21.36:535][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/8TXEZSVIN8XJXFAAPYJ9PFB445EF0841335F43D4B424B21DC23340.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF.uasset'
+[2025.03.31-00.21.36:556][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2025.03.31-00.21.36:558][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/99H285CLZ96HCTKT3S7S7921065EC64CC4AEA0D24B3F8B3E86E052.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79.uasset'
+[2025.03.31-00.21.36:578][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2025.03.31-00.21.36:579][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/J8JQXJ67F9KX47CCDA8ZMF9A0054CF4D13D1E15ECEDE8B332E6342.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF.uasset'
+[2025.03.31-00.21.36:603][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2025.03.31-00.21.36:604][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/7UWDO77CF7TNVQ9BB75XCF07F55EAF4D5202AEFFD054AEE436BB1B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF.uasset'
+[2025.03.31-00.21.36:627][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2025.03.31-00.21.36:629][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/TIHXLB5639NV4RM260YDTW36C579404B55E977A627C9BB162CEE53.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW.uasset'
+[2025.03.31-00.21.36:650][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2025.03.31-00.21.36:653][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/GV76BBB2V0EFHV7ELK9A0Y8133E37646F69A02A3CF7FB0A4B7915B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y.uasset'
+[2025.03.31-00.21.36:675][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2025.03.31-00.21.36:677][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/39OTWHVDSI751PAH6731IDAAE744464AF64CBD0242AD909233F2D8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID.uasset'
+[2025.03.31-00.21.36:699][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2025.03.31-00.21.36:701][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CHPLQ79FFGJWC3VACZJA90980655DC4C5B4E80A92734B56DE88300.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90.uasset'
+[2025.03.31-00.21.36:724][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2025.03.31-00.21.36:725][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/X4NPSX8ZUWI1DPH52YEUUPD8398C6B43C4804D3071D8BAE1DC5628.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP.uasset'
+[2025.03.31-00.21.36:747][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2025.03.31-00.21.36:749][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/3B5158OKASMIKGFDZC9KRFD40FF0784EAB66601ED727B70EC048CF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF.uasset'
+[2025.03.31-00.21.36:768][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2025.03.31-00.21.36:770][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/MRZ7RQN5KANFM03I7EKRCC4B82151A49E1525383BFBCA2779752A8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC.uasset'
+[2025.03.31-00.21.36:791][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2025.03.31-00.21.36:793][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/XQN8LZWIDWMWIMOBUZOJDHFE19A1B5432E77D6626E8EB9A99E8493.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH.uasset'
+[2025.03.31-00.21.36:812][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2025.03.31-00.21.36:813][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JJD8SHJCMNFNMC34COATAM963850394624ABD0597C4E8E6DCAD9E6.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM.uasset'
+[2025.03.31-00.21.36:839][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2025.03.31-00.21.36:840][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/ELJ3HI994B42IQIWQEZNGD5618E85A450A07EBB6B255918E8BAED2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD.uasset'
+[2025.03.31-00.21.36:862][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2025.03.31-00.21.36:863][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/HYGURXU7M62N8WAUIXLWPQ93156EF9477182A646A3FB8EF8589E3E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ.uasset'
+[2025.03.31-00.21.36:884][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2025.03.31-00.21.36:885][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FH4UWQ2MQA5KPUZVXS23LJ2C3A4F4749F29CFCC840E1B8CEC8AC18.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ.uasset'
+[2025.03.31-00.21.36:906][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2025.03.31-00.21.36:908][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/PLU0RE738EMG7CF7VC8D9S0C34C2AE43521E336ACA83A31DA1BF58.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S.uasset'
+[2025.03.31-00.21.36:929][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2025.03.31-00.21.36:930][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/KXAGD7OP6IEQ3K8LWI86RLF67177FE44A959EE92083FA01C53D582.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL.uasset'
+[2025.03.31-00.21.36:951][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2025.03.31-00.21.36:952][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/9034HM4Y3YU11DE4XNPRA98991DD11496597804A2A4F942B4C7933.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9.uasset'
+[2025.03.31-00.21.36:973][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2025.03.31-00.21.36:974][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/OHRQN7RF5THM8Z6O6262I492562BBF48F4E24C841EFF8D68FF26B8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4.uasset'
+[2025.03.31-00.21.36:996][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2025.03.31-00.21.36:997][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/TAVO56E9B1HVH1F45RLBIAA90C0F9D44714377D693ECAB9633116A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA.uasset'
+[2025.03.31-00.21.37:017][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2025.03.31-00.21.37:018][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/VXH4MI02ODW8DKNLA2MOK30A6A8F634010DA4DEB7392A1E10F39A4.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3.uasset'
+[2025.03.31-00.21.37:038][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2025.03.31-00.21.37:039][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/4ND4ZK6J06I5L4DPSTPYW94E8425DC41A5A135CEFA7382055FB77B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9.uasset'
+[2025.03.31-00.21.37:060][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2025.03.31-00.21.37:061][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/0XXSVY1Y0D2HIHA43BVMPH8C5699A1445660FDB8EF2D9DF93EA86A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH.uasset'
+[2025.03.31-00.21.37:082][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2025.03.31-00.21.37:085][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CK3DVSRDA9WTQU5TC2XO2V36BC392647185968414AEFA0F927D8DA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V.uasset'
+[2025.03.31-00.21.37:105][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2025.03.31-00.21.37:106][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JV2GOVBPB8GZ9MQUICHC9S0BAD1D8A4682F4C7AE2F15A3B36FFDD9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S.uasset'
+[2025.03.31-00.21.37:129][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2025.03.31-00.21.37:131][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/NURB0U7U9ZV4H4LX7FT8T2F11F2E084DBD2C370B8D1EBF34CB6802.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2.uasset'
+[2025.03.31-00.21.37:151][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2025.03.31-00.21.37:151][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/B3NPG0KFON6BVW5ECZJSUI36F56FBE4673E84AF0A2A9837FF93A4B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI.uasset'
+[2025.03.31-00.21.37:173][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2025.03.31-00.21.37:174][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/BULBFMUS7ADZJMH54QGDK9DDCDD9D347211C009134EC8FBCD5E367.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9.uasset'
+[2025.03.31-00.21.37:195][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2025.03.31-00.21.37:196][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/1HONC7HVU91I909A4N80W249D6E5A248BFF19735273991BA6F6A91.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2.uasset'
+[2025.03.31-00.21.37:221][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2025.03.31-00.21.37:222][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/6S23OQXPMF10HYXLB9OEIP1EA41CDB48EBBCA87CDDA8945142ECF9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP.uasset'
+[2025.03.31-00.21.37:243][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2025.03.31-00.21.37:244][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/L8FAOYPHJNQSTCW3XMMSJT1B943FF844EA737D1B3C7B84F8B6720F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT.uasset'
+[2025.03.31-00.21.37:266][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2025.03.31-00.21.37:268][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/29WASR1BMNC6IXHW8I5KZ87D5867BD44E5FA30107F469C36819764.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8.uasset'
+[2025.03.31-00.21.37:289][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2025.03.31-00.21.37:289][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/T187Z8E2C6CPJLXCH06KRJ5058F9E244FC2FCADB145E8C748DC1E8.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ.uasset'
+[2025.03.31-00.21.37:311][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2025.03.31-00.21.37:313][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/85792LT2Y93I704I1JYP1K1466D25642B77FEF8D4E758B89214A21.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K.uasset'
+[2025.03.31-00.21.37:336][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2025.03.31-00.21.37:337][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/E7UFHHQZ7B8TLAL6Y74JRC397220AF4A2FB9BF569109802E8D9DDA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC.uasset'
+[2025.03.31-00.21.37:359][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2025.03.31-00.21.37:361][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/Y23P0KHN1XII71UX7D1H8QA73578A747702A0D650720BF42A55A86.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q.uasset'
+[2025.03.31-00.21.37:384][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2025.03.31-00.21.37:385][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/90QVEWVNXY6N07CS9SHQPME32ABE6E4CCB5113E635F9A1AEDEAB1C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM.uasset'
+[2025.03.31-00.21.37:407][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2025.03.31-00.21.37:408][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FL16ITLR22643N9B35THAR81146DF042423364DD6628A0A2C8A3BD.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR.uasset'
+[2025.03.31-00.21.37:429][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2025.03.31-00.21.37:431][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/YMDE4WERKLNXIT8TVTH5OW7ABA7BC54CDBCF27E4B42C8961E4D7CA.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW.uasset'
+[2025.03.31-00.21.37:453][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2025.03.31-00.21.37:455][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/NERX0MWYRICL228ZB8J0QW0BEDBCC7429D5D3D6D46F0A97ECD6A5A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW.uasset'
+[2025.03.31-00.21.37:477][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2025.03.31-00.21.37:478][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/VZU403KFJ6UJQ2M3VY67369CF910B3417C4374A89B84995D598531.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736.uasset'
+[2025.03.31-00.21.37:500][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2025.03.31-00.21.37:501][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JANFZ62JMG0U1Z3UNCQVKV487A21374F799F06A63BBFB6EC0EA0A2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV.uasset'
+[2025.03.31-00.21.37:521][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2025.03.31-00.21.37:524][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/SPYD0PSGU4M3NK7DI5RDRMECB27DAB465F5745F30183B3A7E641AC.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM.uasset'
+[2025.03.31-00.21.37:544][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2025.03.31-00.21.37:545][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/M58JIDBQC2JEOWYFQ17JSY25FBAA574D4093DDCB5C5A8AD460865F.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY.uasset'
+[2025.03.31-00.21.37:566][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2025.03.31-00.21.37:568][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/4G06FUR85LXRX1UCMOAFBE34F0C10A4D15C267A0D206A3A8881D58.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset'
+[2025.03.31-00.21.37:587][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2025.03.31-00.21.37:589][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/4NBZKC5PVQODH9SVSYPY1E47E0A8D147074537947AA1AAFD1C3E5D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset'
+[2025.03.31-00.21.37:609][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2025.03.31-00.21.37:611][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/APFM7ONOEVP1TBHZZ5VTDAF307466145AD3AFB3A8D10901745E38E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset'
+[2025.03.31-00.21.37:632][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2025.03.31-00.21.37:633][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/UYA7A5HTQTJSRWJ4MK2WT664053E0346D2C57089A976ABC024FFD5.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset'
+[2025.03.31-00.21.37:637][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/2R/OLRJW031PNX65IE2DYSAUG
+[2025.03.31-00.21.37:637][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/OLRJW031PNX65IE2DYSAUG40C93DF344B937907E4EA9B9AA0A7A27.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/2R/OLRJW031PNX65IE2DYSAUG.uasset'
+[2025.03.31-00.21.37:639][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/OT/JAFWMR8Z15WBQZZ75XAU7J
+[2025.03.31-00.21.37:641][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JAFWMR8Z15WBQZZ75XAU7JB738D69949CDB34CF83C7E91A459A09A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/E/OT/JAFWMR8Z15WBQZZ75XAU7J.uasset'
+[2025.03.31-00.21.37:643][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/5M/1TQAVLFFMBMN9LENCQNDJQ
+[2025.03.31-00.21.37:643][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/1TQAVLFFMBMN9LENCQNDJQCF5FB1DA4251D47BE0AFCB94F9D83936.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/5M/1TQAVLFFMBMN9LENCQNDJQ.uasset'
+[2025.03.31-00.21.37:646][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/SA/SGMYMD005NLM0HLD9SZDXS
+[2025.03.31-00.21.37:646][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/SGMYMD005NLM0HLD9SZDXSB6607C7346989397EEE9F1A568CC0BF0.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/B/SA/SGMYMD005NLM0HLD9SZDXS.uasset'
+[2025.03.31-00.21.37:650][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/VN/RXH4QUAPJWW75K11VZ8KIU
+[2025.03.31-00.21.37:650][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/RXH4QUAPJWW75K11VZ8KIUEEC418BE4F6E79F920B6BA90692F6A78.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/2/VN/RXH4QUAPJWW75K11VZ8KIU.uasset'
+[2025.03.31-00.21.37:653][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/PE/IZMA5NOMGMN8DQYBKCY8S7
+[2025.03.31-00.21.37:653][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/IZMA5NOMGMN8DQYBKCY8S7E55CCC2847F97EE1BCCA61B2CAB1F42A.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/PE/IZMA5NOMGMN8DQYBKCY8S7.uasset'
+[2025.03.31-00.21.37:655][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/B4/O7VH4PLFL1ZUESVQ8N2CIO
+[2025.03.31-00.21.37:655][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/O7VH4PLFL1ZUESVQ8N2CIO8FFE2334458E9906EE5479BF53D7ADC4.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/B4/O7VH4PLFL1ZUESVQ8N2CIO.uasset'
+[2025.03.31-00.21.37:658][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/N3/69Z1LIAZIA5WR5VXV5MU9V
+[2025.03.31-00.21.37:658][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/69Z1LIAZIA5WR5VXV5MU9V191517FA40E6C142B832BBB58BD0D8E9.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/N3/69Z1LIAZIA5WR5VXV5MU9V.uasset'
+[2025.03.31-00.21.37:661][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/TT/7OIW5172F9DWE54AKQ7EOK
+[2025.03.31-00.21.37:661][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/7OIW5172F9DWE54AKQ7EOKBF4960A54BC0FF2A1EB645B96356241C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/TT/7OIW5172F9DWE54AKQ7EOK.uasset'
+[2025.03.31-00.21.37:664][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/O2/KTWX0PY8WIGDDA1SOS1SIT
+[2025.03.31-00.21.37:664][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/KTWX0PY8WIGDDA1SOS1SITC13927194E336A2417D62B8FC3C43190.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/O2/KTWX0PY8WIGDDA1SOS1SIT.uasset'
+[2025.03.31-00.21.37:668][604]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/JV/454ME0JY8I6D7TBSA0TXBK
+[2025.03.31-00.21.37:668][604]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/454ME0JY8I6D7TBSA0TXBKAF9C31F34BC181097A5DE29846540611.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/JV/454ME0JY8I6D7TBSA0TXBK.uasset'
+[2025.03.31-00.21.37:685][604]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.67 sec (total: 13.3 sec)
+[2025.03.31-00.21.37:832][604]LogContentValidation: Display: Starting to validate 76 assets
+[2025.03.31-00.21.37:832][604]LogContentValidation: Enabled validators:
+[2025.03.31-00.21.37:832][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.21.37:832][604]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.21.37:832][604]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.21.37:832][604]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.21.37:832][604]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.21.37:832][604]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.21.37:832][604]AssetCheck: /Game/NewMap Validating asset
+[2025.03.31-00.21.47:888][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.03.31-00.21.47:888][179]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.03.31-00.21.47:888][179]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_46
+[2025.03.31-00.21.48:916][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-00.21.48:921][238]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.03.31-00.21.48:925][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.03.31-00.21.48:925][238]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB
+[2025.03.31-00.21.48:928][238]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/GenericTrees/SM_GenericTreeB.SM_GenericTreeB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A315A02_1269337305
+[2025.03.31-00.22.04:454][131]Cmd: DUPLICATE
+[2025.03.31-00.22.04:454][131]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.22.28:531][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.03.31-00.22.28:531][490]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.03.31-00.22.28:532][490]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_47
+[2025.03.31-00.22.29:495][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2025.03.31-00.22.29:502][546]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.03.31-00.22.29:508][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.03.31-00.22.29:508][546]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB
+[2025.03.31-00.22.29:511][546]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/Pines/SM_PineVariantAGrowingB.SM_PineVariantAGrowingB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A315A02_1309920307
+[2025.03.31-00.23.06:234][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.23.06:365][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.23.06:395][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.23.06:417][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.23.06:421][666]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/7B/3JPJE9UFTM2A5G5S5IH2B1
+[2025.03.31-00.23.06:421][666]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/3JPJE9UFTM2A5G5S5IH2B14FFF643B42015C55F968C7A99F64CAFC.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/9/7B/3JPJE9UFTM2A5G5S5IH2B1.uasset'
+[2025.03.31-00.23.06:426][666]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/AT/8BJR2E20SJQCNUG7UQSORJ
+[2025.03.31-00.23.06:426][666]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/8BJR2E20SJQCNUG7UQSORJFE09AD6C429096EA8451E9837FEABE7C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/AT/8BJR2E20SJQCNUG7UQSORJ.uasset'
+[2025.03.31-00.23.06:429][666]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/6V/K8D56ELFKPLAW6XC1F3UAZ
+[2025.03.31-00.23.06:429][666]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/K8D56ELFKPLAW6XC1F3UAZ8DA410F443DE618AA79E16B361AFE87E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/1/6V/K8D56ELFKPLAW6XC1F3UAZ.uasset'
+[2025.03.31-00.23.06:446][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.937 ms (total: 13.5 sec)
+[2025.03.31-00.23.06:586][666]LogContentValidation: Display: Starting to validate 3 assets
+[2025.03.31-00.23.06:586][666]LogContentValidation: Enabled validators:
+[2025.03.31-00.23.06:586][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.23.06:586][666]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.23.06:586][666]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.23.06:586][666]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.23.06:586][666]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.23.06:586][666]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.23.06:587][666]AssetCheck: /Game/NewMap Validating asset
+[2025.03.31-00.23.07:874][735]Cmd: POLY SELECT ALL
+[2025.03.31-00.23.36:414][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.23.36:414][393]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.23.36:415][393]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_48
+[2025.03.31-00.23.37:593][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.23.37:599][461]LogEditorActor: Deleted 0 Actors (0.027 secs)
+[2025.03.31-00.23.37:603][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.23.37:604][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB
+[2025.03.31-00.23.37:606][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Trees/TreeLogs/SM_TreeLogOakB.SM_TreeLogOakB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A315A02_1378016308
+[2025.03.31-00.24.07:087][121]LogDerivedDataCache: C:/Users/willi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.31-00.24.09:222][245]Cmd: DUPLICATE
+[2025.03.31-00.24.09:222][245]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.24.37:064][834]Cmd: TRANSACTION UNDO
+[2025.03.31-00.24.37:064][834]LogEditorTransaction: Undo Rotate Elements
+[2025.03.31-00.24.37:206][834]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.03.31-00.24.43:192][156]Cmd: DUPLICATE
+[2025.03.31-00.24.43:192][156]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.25.29:883][757]Cmd: DELETE
+[2025.03.31-00.25.29:883][757]Cmd: ACTOR DELETE
+[2025.03.31-00.25.29:886][757]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.31-00.25.29:912][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.03.31-00.25.29:919][757]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.03.31-00.25.33:265][934]Cmd: DUPLICATE
+[2025.03.31-00.25.33:265][934]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.25.52:164][  9]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7420.539062
+[2025.03.31-00.25.52:247][ 14]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.31-00.25.52:247][ 14]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7420.606445, Update Interval: 330.953094
+[2025.03.31-00.26.04:349][717]LogStreaming: Display: FlushAsyncLoading(2350): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-00.26.04:350][717]LogStaticMesh: Display: Building static mesh SM_ParasolMushroomMatureVariantB (Required Memory Estimate: 0.229838 MB)...
+[2025.03.31-00.26.04:351][717]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.26.04:353][717]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.26.04:353][717]LogStaticMesh: Built static mesh [0.00s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/ParasolMushroom/SM_ParasolMushroomMatureVariantB.SM_ParasolMushroomMatureVariantB
+[2025.03.31-00.26.04:355][717]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.26.04:491][718]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.26.04:513][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/ParasolMushroom/SM_ParasolMushroomMatureVariantB.SM_ParasolMushroomMatureVariantB
+[2025.03.31-00.26.04:513][719]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/ParasolMushroom/SM_ParasolMushroomMatureVariantB.SM_ParasolMushroomMatureVariantB
+[2025.03.31-00.26.04:513][719]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/ParasolMushroom/SM_ParasolMushroomMatureVariantB.SM_ParasolMushroomMatureVariantB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_49
+[2025.03.31-00.26.04:523][719]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.26.05:283][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.31-00.26.05:291][761]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.03.31-00.26.05:295][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/ParasolMushroom/SM_ParasolMushroomMatureVariantB.SM_ParasolMushroomMatureVariantB
+[2025.03.31-00.26.05:295][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/ParasolMushroom/SM_ParasolMushroomMatureVariantB.SM_ParasolMushroomMatureVariantB
+[2025.03.31-00.26.05:297][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/ParasolMushroom/SM_ParasolMushroomMatureVariantB.SM_ParasolMushroomMatureVariantB as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A315A02_1525707313
+[2025.03.31-00.26.42:086][863]Cmd: DUPLICATE
+[2025.03.31-00.26.42:086][863]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.26.54:703][592]Cmd: DUPLICATE
+[2025.03.31-00.26.54:703][592]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.27.15:816][807]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.27.15:948][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.03.31-00.27.15:976][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.31-00.27.15:999][807]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.31-00.27.16:003][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/QZ/MX8BHB5J3VV3DZV9RA0GEJ
+[2025.03.31-00.27.16:003][807]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/MX8BHB5J3VV3DZV9RA0GEJAD24AC284F80598617B19C8D12983BEB.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/QZ/MX8BHB5J3VV3DZV9RA0GEJ.uasset'
+[2025.03.31-00.27.16:008][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/IP/3GBZ218TIEQHWC86PV3XX6
+[2025.03.31-00.27.16:008][807]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/3GBZ218TIEQHWC86PV3XX6765389B14D9310EC27518085BCF5DF26.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/IP/3GBZ218TIEQHWC86PV3XX6.uasset'
+[2025.03.31-00.27.16:011][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/RY/KXGA3C8QPH4UX3PHQ4K660
+[2025.03.31-00.27.16:011][807]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/KXGA3C8QPH4UX3PHQ4K6603B5DAC8A45298115EA1A8786BADC36B0.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/RY/KXGA3C8QPH4UX3PHQ4K660.uasset'
+[2025.03.31-00.27.16:015][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/QQ/HMCNZ15X0KCZKMD4X1J5WV
+[2025.03.31-00.27.16:015][807]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/HMCNZ15X0KCZKMD4X1J5WV824034BD4CA63C5BDF5162813CABD696.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/QQ/HMCNZ15X0KCZKMD4X1J5WV.uasset'
+[2025.03.31-00.27.16:018][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/Q2/JL7VBS8861UC7NF2NESYR2
+[2025.03.31-00.27.16:018][807]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JL7VBS8861UC7NF2NESYR2E9559E794D2A63FE39C5038B795FB8A3.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/Q2/JL7VBS8861UC7NF2NESYR2.uasset'
+[2025.03.31-00.27.16:021][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/N6/6L4C57RXL9AV2I39JLT8OV
+[2025.03.31-00.27.16:021][807]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/6L4C57RXL9AV2I39JLT8OVD0140CF94CFAAEFCA1CC22AA12BC543C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/N6/6L4C57RXL9AV2I39JLT8OV.uasset'
+[2025.03.31-00.27.16:024][807]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BI/FU799X5WZO2VUZCFGMUXLO
+[2025.03.31-00.27.16:024][807]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FU799X5WZO2VUZCFGMUXLOF268F21248CAA7CD582F0B9446EA314C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/BI/FU799X5WZO2VUZCFGMUXLO.uasset'
+[2025.03.31-00.27.16:036][807]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.066 ms (total: 13.7 sec)
+[2025.03.31-00.27.16:179][807]LogContentValidation: Display: Starting to validate 7 assets
+[2025.03.31-00.27.16:179][807]LogContentValidation: Enabled validators:
+[2025.03.31-00.27.16:179][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.27.16:179][807]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.27.16:179][807]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.27.16:179][807]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.27.16:179][807]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.27.16:179][807]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.27.16:181][807]AssetCheck: /Game/NewMap Validating asset
+[2025.03.31-00.28.17:067][363]LogStreaming: Display: FlushAsyncLoading(2351): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.31-00.28.17:069][363]LogStaticMesh: Display: Building static mesh SM_GirolleAVariantA (Required Memory Estimate: 0.41316 MB)...
+[2025.03.31-00.28.17:069][363]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.28.17:075][363]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheRecords RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.28.17:075][363]LogStaticMesh: Built static mesh [0.01s] /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/Girolle/SM_GirolleAVariantA.SM_GirolleAVariantA
+[2025.03.31-00.28.17:078][363]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.28.17:205][364]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.28.17:233][365]LogDerivedDataCache: Display: ZenLocal: Error response received from PutCacheValues RPC: from POST http://[::1]:8558//z$/$rpc -> 507
+[2025.03.31-00.28.17:260][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/Girolle/SM_GirolleAVariantA.SM_GirolleAVariantA
+[2025.03.31-00.28.17:260][365]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/Girolle/SM_GirolleAVariantA.SM_GirolleAVariantA
+[2025.03.31-00.28.17:260][365]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/Girolle/SM_GirolleAVariantA.SM_GirolleAVariantA as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_50
+[2025.03.31-00.28.18:101][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.03.31-00.28.18:113][413]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2025.03.31-00.28.18:117][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/Girolle/SM_GirolleAVariantA.SM_GirolleAVariantA
+[2025.03.31-00.28.18:117][413]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/Girolle/SM_GirolleAVariantA.SM_GirolleAVariantA
+[2025.03.31-00.28.18:121][413]LogActorFactory: Actor Factory spawned StaticMesh /Game/VRS_LowPolyNatureEssentials/Meshes/Env/Mushrooms/Girolle/SM_GirolleAVariantA.SM_GirolleAVariantA as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A315A02_1658529316
+[2025.03.31-00.28.58:701][742]Cmd: DUPLICATE
+[2025.03.31-00.28.58:702][742]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.29.03:006][982]Cmd: DUPLICATE
+[2025.03.31-00.29.03:006][982]Cmd: ACTOR DUPLICATE
+[2025.03.31-00.29.41:373][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.31-00.29.41:494][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.31-00.29.41:523][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-00.29.41:544][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.31-00.29.41:547][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/QZ/MX8BHB5J3VV3DZV9RA0GEJ
+[2025.03.31-00.29.41:550][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/MX8BHB5J3VV3DZV9RA0GEJ2A353E3B4BEF1880A25E61A94594FAF1.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/QZ/MX8BHB5J3VV3DZV9RA0GEJ.uasset'
+[2025.03.31-00.29.41:554][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/IP/3GBZ218TIEQHWC86PV3XX6
+[2025.03.31-00.29.41:555][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/3GBZ218TIEQHWC86PV3XX6F66CA3C64BEA03C91859D3BBECC305E2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/7/IP/3GBZ218TIEQHWC86PV3XX6.uasset'
+[2025.03.31-00.29.41:559][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/RY/KXGA3C8QPH4UX3PHQ4K660
+[2025.03.31-00.29.41:559][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/KXGA3C8QPH4UX3PHQ4K660598843BE48E528E979A579B4106E2F3E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/6/RY/KXGA3C8QPH4UX3PHQ4K660.uasset'
+[2025.03.31-00.29.41:563][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/QQ/HMCNZ15X0KCZKMD4X1J5WV
+[2025.03.31-00.29.41:564][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/HMCNZ15X0KCZKMD4X1J5WV9AC9C0604BB34D8D847BD28B89B37FB2.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/QQ/HMCNZ15X0KCZKMD4X1J5WV.uasset'
+[2025.03.31-00.29.41:569][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/Q2/JL7VBS8861UC7NF2NESYR2
+[2025.03.31-00.29.41:569][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JL7VBS8861UC7NF2NESYR2EDDCA898486AD5FD26EC73912A1060AE.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/3/Q2/JL7VBS8861UC7NF2NESYR2.uasset'
+[2025.03.31-00.29.41:573][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/N6/6L4C57RXL9AV2I39JLT8OV
+[2025.03.31-00.29.41:574][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/6L4C57RXL9AV2I39JLT8OV85CC42634E23F9F590A71CA84EE71290.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/8/N6/6L4C57RXL9AV2I39JLT8OV.uasset'
+[2025.03.31-00.29.41:577][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BI/FU799X5WZO2VUZCFGMUXLO
+[2025.03.31-00.29.41:579][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/FU799X5WZO2VUZCFGMUXLO0E7BC83B46B105C9EAC95EAEE8B10E71.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/D/BI/FU799X5WZO2VUZCFGMUXLO.uasset'
+[2025.03.31-00.29.41:581][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/NewMap/B/F3/JH7LHWMX94VGDP0ZGQEUCN] ([1] browsable assets)...
+[2025.03.31-00.29.41:581][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/NewMap/B/F3/JH7LHWMX94VGDP0ZGQEUCN]
+[2025.03.31-00.29.41:581][169]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/B/F3/JH7LHWMX94VGDP0ZGQEUCN
+[2025.03.31-00.29.41:583][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/JH7LHWMX94VGDP0ZGQEUCNDE1CC576453C2ABD031066B7E3FCC0BF.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalObjects__/NewMap/B/F3/JH7LHWMX94VGDP0ZGQEUCN.uasset'
+[2025.03.31-00.29.41:586][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/02/EZUTYD7JBVOT4Y3Z59PKD5
+[2025.03.31-00.29.41:586][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/EZUTYD7JBVOT4Y3Z59PKD50769E23047192E5607F614B753734C07.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/02/EZUTYD7JBVOT4Y3Z59PKD5.uasset'
+[2025.03.31-00.29.41:589][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/E0/ZU32AHC0EU8HFL5HG8W9VM
+[2025.03.31-00.29.41:589][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/ZU32AHC0EU8HFL5HG8W9VM033391F94446DBC2D0D71C9C0C21932D.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/0/E0/ZU32AHC0EU8HFL5HG8W9VM.uasset'
+[2025.03.31-00.29.41:592][169]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/0W/CGLR5F17ENZ08PM66P2J3T
+[2025.03.31-00.29.41:592][169]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/CGLR5F17ENZ08PM66P2J3T41118AB941CA432A2A1E40885764C304.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/5/0W/CGLR5F17ENZ08PM66P2J3T.uasset'
+[2025.03.31-00.29.41:610][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.526 ms (total: 13.9 sec)
+[2025.03.31-00.29.41:735][169]LogContentValidation: Display: Starting to validate 11 assets
+[2025.03.31-00.29.41:735][169]LogContentValidation: Enabled validators:
+[2025.03.31-00.29.41:735][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.31-00.29.41:735][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.31-00.29.41:735][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.31-00.29.41:735][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.31-00.29.41:735][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.31-00.29.41:735][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.31-00.29.41:736][169]AssetCheck: /Game/NewMap Validating asset
