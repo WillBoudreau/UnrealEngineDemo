@@ -1432,3 +1432,91 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.04.05-22.11.36:659][146]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.04.05-22.11.36:659][146]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.04.05-22.11.36:661][146]AssetCheck: /Game/NewMap Validating asset
+[2025.04.05-22.12.30:448][450]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/CEF3/Win64
+[2025.04.05-22.12.30:462][450]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.04.05-22.13.03:392][303]LogFab: Display: Asset Type = glb
+[2025.04.05-22.13.03:392][303]LogFab: Display: Is Quixel = 0
+[2025.04.05-22.13.04:003][319]LogStreaming: Display: FlushAsyncLoading(837): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.05-22.13.04:227][319]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2025.04.05-22.13.04:228][319]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/willi/AppData/Local/Temp/FabLibrary/60f653d0-0afc-4ca8-a711-686c1981c08d/gorgonzola_cheese_fbx.glb]
+[2025.04.05-22.13.04:299][321]LogStreaming: Display: FlushAsyncLoading(872): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.05-22.13.04:380][325]LogStreaming: Display: FlushAsyncLoading(875): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.05-22.13.04:412][327]LogStreaming: Display: FlushAsyncLoading(876): 1 QueuedPackages, 0 AsyncPackages
+[2025.04.05-22.13.04:461][328]LogTexture: Display: Building textures: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_2.gorgonzola_cheese_fbx_texture_2 (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 382.499988 MB), EncodeSpeed: Fast
+[2025.04.05-22.13.04:462][328]LogTexture: Display: Building textures: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_0.gorgonzola_cheese_fbx_texture_0 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.04.05-22.13.04:462][328]LogTexture: Display: Building textures: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_1.gorgonzola_cheese_fbx_texture_1 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.04.05-22.13.04:498][328]LogStaticMesh: Display: Building static mesh gorgonzola_cheese_fbx (Required Memory Estimate: 0.658113 MB)...
+[2025.04.05-22.13.04:520][329]LogStaticMesh: Built static mesh [0.04s] /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx
+[2025.04.05-22.13.04:524][329]LogStaticMesh: Warning: gorgonzola_cheese_fbx has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.04.05-22.13.04:525][329]LogStaticMesh: Warning: gorgonzola_cheese_fbx has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.04.05-22.13.06:064][334]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 149 triangles, gorgonzola_cheese_fbx
+[2025.04.05-22.13.06:077][335]LogInterchangeEngine: Display: Interchange import completed [C:/Users/willi/AppDa...a8-a711-686c1981c08d/gorgonzola_cheese_fbx.glb]
+[2025.04.05-22.13.07:717][409]LogMeshUtilities: Finished distance field build in 1.7s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 69% occupied, 149 triangles, gorgonzola_cheese_fbx
+[2025.04.05-22.13.11:318][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx
+[2025.04.05-22.13.11:318][578]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx
+[2025.04.05-22.13.11:319][578]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_1
+[2025.04.05-22.13.12:232][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.04.05-22.13.12:237][630]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.04.05-22.13.12:241][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx
+[2025.04.05-22.13.12:241][630]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx
+[2025.04.05-22.13.12:243][630]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx as actor: StaticMeshActor /Game/NewMap.NewMap:PersistentLevel.StaticMeshActor_UAID_F46ADDF0688A0C5C02_1925286760
+[2025.04.05-22.13.48:273][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-22.13.48:366][720]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/QP/A9MLOAFXF9LC2YSEAXTN3K
+[2025.04.05-22.13.48:366][720]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/A9MLOAFXF9LC2YSEAXTN3KC479E03344157AD909B0978AD14BE525.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/__ExternalActors__/NewMap/A/QP/A9MLOAFXF9LC2YSEAXTN3K.uasset'
+[2025.04.05-22.13.48:378][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.348 ms (total: 227.920 ms)
+[2025.04.05-22.13.48:523][720]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.05-22.13.48:523][720]LogContentValidation: Enabled validators:
+[2025.04.05-22.13.48:523][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-22.13.48:523][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-22.13.48:523][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-22.13.48:523][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-22.13.48:523][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-22.13.48:523][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-22.13.48:523][720]AssetCheck: /Game/NewMap Validating asset
+[2025.04.05-22.14.00:563][408]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.04.05-22.14.23:918][408]LogSlate: Window 'Add C++ Component' being destroyed
+[2025.04.05-22.14.23:956][408]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2025.04.05-22.14.23:974][409]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 312.004700
+[2025.04.05-22.14.24:190][414]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.04.05-22.14.24:190][414]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 312.178772, Update Interval: 353.126007
+[2025.04.05-22.14.56:594][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.04.05-22.14.56:600][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.05-22.14.56:728][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_0] ([1] browsable assets)...
+[2025.04.05-22.14.56:730][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_0.gorgonzola_cheese_fbx_texture_0]
+[2025.04.05-22.14.56:730][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_0]
+[2025.04.05-22.14.56:759][298]LogSavePackage: Moving output files for package: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_0
+[2025.04.05-22.14.56:759][298]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/gorgonzola_cheese_fbx_texture_0CD37EAC846D2BBA4AC5DDB8CDD4B501E.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_0.uasset'
+[2025.04.05-22.14.56:762][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_1] ([1] browsable assets)...
+[2025.04.05-22.14.56:763][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_1.gorgonzola_cheese_fbx_texture_1]
+[2025.04.05-22.14.56:763][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_1]
+[2025.04.05-22.14.56:784][298]LogSavePackage: Moving output files for package: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_1
+[2025.04.05-22.14.56:784][298]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/gorgonzola_cheese_fbx_texture_15CBF51DA452E1E12BF5EC9B9F5DD4386.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_1.uasset'
+[2025.04.05-22.14.56:786][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_2] ([1] browsable assets)...
+[2025.04.05-22.14.56:787][298]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_2.gorgonzola_cheese_fbx_texture_2]
+[2025.04.05-22.14.56:787][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_2]
+[2025.04.05-22.14.56:808][298]LogSavePackage: Moving output files for package: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_2
+[2025.04.05-22.14.56:808][298]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/gorgonzola_cheese_fbx_texture_244D507CD46CA732BD9E2BC874A9BF167.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_2.uasset'
+[2025.04.05-22.14.56:810][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Gorgonzola_Cheese/lambert1_001] ([1] browsable assets)...
+[2025.04.05-22.14.56:868][298]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Fab/Gorgonzola_Cheese/lambert1_001.lambert1_001]
+[2025.04.05-22.14.56:868][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Gorgonzola_Cheese/lambert1_001]
+[2025.04.05-22.14.56:870][298]LogSavePackage: Moving output files for package: /Game/Fab/Gorgonzola_Cheese/lambert1_001
+[2025.04.05-22.14.56:870][298]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/lambert1_0013464A2E7422B6E09B5E4178870230B0C.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Fab/Gorgonzola_Cheese/lambert1_001.uasset'
+[2025.04.05-22.14.56:871][298]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx] ([1] browsable assets)...
+[2025.04.05-22.14.56:883][298]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.gorgonzola_cheese_fbx]
+[2025.04.05-22.14.56:884][298]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx]
+[2025.04.05-22.14.56:887][298]LogSavePackage: Moving output files for package: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx
+[2025.04.05-22.14.56:887][298]LogSavePackage: Moving '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Saved/gorgonzola_cheese_fbx5A46518F4E71A00FFC75B29DC00E511B.tmp' to '../../../../../../Users/willi/OneDrive/Documents/GitHub/UnrealEngineDemo/FirstProject/StarterProject/Content/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx.uasset'
+[2025.04.05-22.14.56:897][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 296.375 ms (total: 524.296 ms)
+[2025.04.05-22.14.57:074][298]LogContentValidation: Display: Starting to validate 5 assets
+[2025.04.05-22.14.57:074][298]LogContentValidation: Enabled validators:
+[2025.04.05-22.14.57:074][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.05-22.14.57:074][298]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.05-22.14.57:076][298]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.05-22.14.57:076][298]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.05-22.14.57:076][298]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.05-22.14.57:076][298]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.05-22.14.57:076][298]AssetCheck: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_0 Validating asset
+[2025.04.05-22.14.57:076][298]AssetCheck: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_1 Validating asset
+[2025.04.05-22.14.57:076][298]AssetCheck: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx_texture_2 Validating asset
+[2025.04.05-22.14.57:076][298]AssetCheck: /Game/Fab/Gorgonzola_Cheese/lambert1_001 Validating asset
+[2025.04.05-22.14.57:076][298]AssetCheck: /Game/Fab/Gorgonzola_Cheese/gorgonzola_cheese_fbx Validating asset
