@@ -63,6 +63,9 @@
     <ClCompile Include="..\..\Source\StarterProject\Private\CharacterControllerClass.cpp">
       <Filter>Source\StarterProject\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\StarterProject\Private\LogRotator.cpp">
+      <Filter>Source\StarterProject\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\StarterProject\Private\MyActor.cpp">
       <Filter>Source\StarterProject\Private</Filter>
     </ClCompile>
@@ -78,6 +81,9 @@
     <ClCompile Include="..\..\Source\StarterProject\Private\ObstacleRotator.cpp">
       <Filter>Source\StarterProject\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\StarterProject\Private\Test.cpp">
+      <Filter>Source\StarterProject\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\StarterProject\Public">
       <UniqueIdentifier>{14543FE1-2273-3DFA-8FFD-6FC1CEECE3CB}</UniqueIdentifier>
     </Filter>
@@ -85,6 +91,9 @@
       <Filter>Source\StarterProject\Public</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\StarterProject\Public\CharacterControllerClass.h">
+      <Filter>Source\StarterProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\StarterProject\Public\LogRotator.h">
       <Filter>Source\StarterProject\Public</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\StarterProject\Public\MyActor.h">
@@ -102,6 +111,8 @@
     <ClCompile Include="..\..\Source\StarterProject\Public\ObstacleRotator.h">
       <Filter>Source\StarterProject\Public</Filter>
     </ClCompile>
-    <None Include="cpp.hint" />
+    <ClCompile Include="..\..\Source\StarterProject\Public\Test.h">
+      <Filter>Source\StarterProject\Public</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
