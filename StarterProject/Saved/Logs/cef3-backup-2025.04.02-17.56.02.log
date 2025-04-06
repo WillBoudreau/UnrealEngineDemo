@@ -1,9 +1,0 @@
-[0402/135412.909:ERROR:block_files.cc(109)] Failing CreateMapBlock
-[0402/135412.909:ERROR:entry_impl.cc(998)] Failed to save user data
-[0402/135414.532:ERROR:block_files.cc(109)] Failing CreateMapBlock
-[0402/135414.532:ERROR:entry_impl.cc(998)] Failed to save user data
-[0402/135414.670:ERROR:block_files.cc(109)] Failing CreateMapBlock
-[0402/135414.670:ERROR:entry_impl.cc(998)] Failed to save user data
-[0402/135414.845:ERROR:block_files.cc(109)] Failing CreateMapBlock
-[0402/135414.845:ERROR:entry_impl.cc(998)] Failed to save user data
-[0402/135602.387:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

@@ -33,75 +33,8 @@
     <Filter Include="Source\StarterProject">
       <UniqueIdentifier>{6DEEF818-B039-34D1-AFD1-4795FD11583A}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\StarterProject\ActorCubeRotation.cpp">
-      <Filter>Source\StarterProject</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\ActorCubeRotation.h">
-      <Filter>Source\StarterProject</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\CubeRotation.cpp">
-      <Filter>Source\StarterProject</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\CubeRotation.h">
-      <Filter>Source\StarterProject</Filter>
-    </ClCompile>
     <None Include="..\..\Source\StarterProject\StarterProject.Build.cs">
       <Filter>Source\StarterProject</Filter>
     </None>
-    <ClCompile Include="..\..\Source\StarterProject\StarterProject.cpp">
-      <Filter>Source\StarterProject</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\StarterProject.h">
-      <Filter>Source\StarterProject</Filter>
-    </ClCompile>
-    <Filter Include="Source\StarterProject\Private">
-      <UniqueIdentifier>{D53BEC8A-6511-3696-A0A7-AA3C323778A2}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\StarterProject\Private\BranchRotator.cpp">
-      <Filter>Source\StarterProject\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Private\CharacterControllerClass.cpp">
-      <Filter>Source\StarterProject\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Private\MyActor.cpp">
-      <Filter>Source\StarterProject\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Private\MyActorComponent.cpp">
-      <Filter>Source\StarterProject\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Private\NewActorComponent.cpp">
-      <Filter>Source\StarterProject\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Private\NewActorComponent1.cpp">
-      <Filter>Source\StarterProject\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Private\ObstacleRotator.cpp">
-      <Filter>Source\StarterProject\Private</Filter>
-    </ClCompile>
-    <Filter Include="Source\StarterProject\Public">
-      <UniqueIdentifier>{14543FE1-2273-3DFA-8FFD-6FC1CEECE3CB}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\StarterProject\Public\BranchRotator.h">
-      <Filter>Source\StarterProject\Public</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Public\CharacterControllerClass.h">
-      <Filter>Source\StarterProject\Public</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Public\MyActor.h">
-      <Filter>Source\StarterProject\Public</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Public\MyActorComponent.h">
-      <Filter>Source\StarterProject\Public</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Public\NewActorComponent.h">
-      <Filter>Source\StarterProject\Public</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Public\NewActorComponent1.h">
-      <Filter>Source\StarterProject\Public</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\StarterProject\Public\ObstacleRotator.h">
-      <Filter>Source\StarterProject\Public</Filter>
-    </ClCompile>
-    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
